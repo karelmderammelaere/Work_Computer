@@ -106,4 +106,6 @@ duplicates = set(name for name in first_names if first_names.count(name) > 1)
 
 print(duplicates)
 
+print("sharing worked")
+
 
