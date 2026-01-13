@@ -1,0 +1,946 @@
+﻿rotten_tomatoes_link;movie_title;content_rating;genre;directors;original_release_date;streaming_release_date;runtime;production_company;audience_rating;audience_count
+m/0814255;Percy Jackson & the Olympians: The Lightning Thief;PG;ACTION & ADVENTURE;Chris Columbus;02/12/2010;11/25/2015;119;20th Century Fox;53;254421
+m/0878835;Please Give;R;COMEDY;Nicole Holofcener;4/30/2010;09/04/2012;90;Sony Pictures Classics;64;11574
+m/10;10;R;COMEDY;Blake Edwards;10/05/1979;7/24/2014;122;Waner Bros.;53;14684
+m/1000013-12_angry_men;12 Angry Men (Twelve Angry Men);NR;DRAMA;Sidney Lumet;4/13/1957;1/13/2017;95;Criterion Collection;97;105386
+m/1000079-20000_leagues_under_the_sea;20,000 Leagues Under The Sea;G;ACTION & ADVENTURE;Richard Fleischer;01/01/1954;06/10/2016;127;Disney;74;68918
+m/10000_bc;10,000 B.C.;PG-13;ACTION & ADVENTURE;Roland Emmerich;03/07/2008;6/22/2013;109;Warner Bros. Pictures;37;411140
+m/1000121-39_steps;The 39 Steps;NR;ACTION & ADVENTURE;Alfred Hitchcock;08/01/1935;01/12/2017;80;Gaumont British Distributors;86;23890
+m/1000123-310_to_yuma;3:10 to Yuma;NR;DRAMA;Delmer Daves;08/07/1957;4/16/2012;92;Columbia Pictures;79;9243
+m/10002008-charly;Charly (A Heartbeat Away);PG;COMEDY;Adam Thomas Anderegg;9/27/2002;5/22/2017;103;Excel Entertainment;87;4819
+m/1000204-abraham_lincoln;Abraham Lincoln;NR;DRAMA;D.W. Griffith;11/08/1930;12/03/2013;97;United Artists;40;457
+m/10002114-dark_water;Dark Water;PG-13;HORROR;Hideo Nakata;1/19/2002;3/23/2017;100;Toho Company Ltd;66;21475
+m/1000224-accused;The Accused;R;DRAMA;Jonathan Kaplan;10/14/1988;10/04/2016;110;Paramount Pictures;79;20821
+m/10002516-lost_city;The Lost City;R;DRAMA;Andy Garcia;09/03/2005;3/23/2017;143;Magnolia Pictures;64;25944
+m/10002519-breaking_point;The Breaking Point;NR;DRAMA;Michael Curtiz;10/06/1950;8/25/2016;97;Warner Home Video;86;335
+m/1000253-adams_rib;Adam's Rib;NR;COMEDY;George Cukor;11/18/1949;05/01/2008;101;MGM Home Entertainment;86;10563
+m/10002635-bridge_of_san_luis_rey;The Bridge of San Luis Rey;PG;DRAMA;Mary McGuckian;06/10/2005;7/24/2014;124;Fine Line Features;35;1935
+m/10002673-prowler;The Prowler (Cost of Living );PG;DRAMA;Joseph Losey;12/03/1951;12/05/2016;92;VCI Entertainment;86;286
+m/10003276-criminal;Criminal;R;DRAMA;Greggory Jacobs, Gregory Jacobs, Greg Jacobs;9/24/2004;4/27/2016;87;Warner Bros. Pictures;57;6711
+m/1000334-adventures_of_mark_twain;The Adventures of Mark Twain;G;ACTION & ADVENTURE;Will Vinton;03/01/1985;02/04/2017;86;Eureka Entertainment Ltd;82;1046
+m/1000355-adventures_of_robin_hood;The Adventures of Robin Hood;PG;ACTION & ADVENTURE;Michael Curtiz, William Keighley;5/14/1938;1/23/2014;102;Warner Bros.;89;33946
+m/10003876-man_hunt;Man Hunt;NR;DRAMA;Fritz Lang;01/01/1941;03/01/2014;100;Twentieth Century Fox;75;554
+m/10003925-dead_end;Dead End;R;COMEDY;Jean-Baptiste Andrea, Fabrice Canepa, Jean-Bapiste Andrea;9/26/2003;12/11/2018;83;LionsGate Entertainment;60;10373
+m/10004050-bandwagon;Bandwagon;R;COMEDY;John Schultz;09/12/1997;;103;Avalanche Entertainment;91;386
+m/10004069-whore;Whore;R;DRAMA;MarÃ­a LidÃ³n;4/16/2004;02/04/2014;77;Dolores Pictures LLC;63;914
+m/10004209-tristan_and_isolde;Tristan & Isolde;PG-13;DRAMA;Kevin Reynolds;1/13/2006;11/25/2015;126;20th Century Fox;71;220956
+m/10004226-wild_side;Wild Side;NR;DRAMA;SÃ©bastien Lifshitz;06/10/2005;10/25/2005;94;Wellspring;80;867
+m/10004232-10004232-tale_of_two_pizzas;A Tale of Two Pizzas;PG;COMEDY;Vincent Sassone;11/07/2003;1/16/2018;82;;;
+m/10004288-running_scared;Running Scared;R;ACTION & ADVENTURE;Wayne Kramer;2/24/2006;10/01/2008;121;New Line Cinema;79;135400
+m/10004352-going_the_distance;Going the Distance;R;COMEDY;Mark Griffiths;8/20/2004;03/10/2017;93;SÃ©ville Pictures;61;13033
+m/10004504-ultraviolet;Ultraviolet;PG-13;ACTION & ADVENTURE;Kurt Wimmer;03/03/2006;4/16/2012;88;Sony Pictures;30;279994
+m/10004635-home_of_the_brave;Home of the Brave;R;ACTION & ADVENTURE;Paola di Florio;05/11/2004;04/03/2016;75;Emerging Pictures;48;866
+m/10004659-arthur;Arthur and the Invisibles (Arthur and the Minimoys);PG;SCIENCE FICTION & FANTASY;Luc Besson;01/12/2007;08/10/2016;94;MGM;56;134483
+m/10004684-malevolence;Malevolence;R;HORROR;Stevan Mena;09/10/2004;3/30/2017;90;Anchor Bay Entertainment;83;2622
+m/10004697-eternal;Eternal;R;HORROR;Wilhelm Liebenberg, Federico Sanchez;8/26/2004;9/23/2016;108;Regent Releasing;39;1295
+m/10004835-farewell_to_arms;A Farewell To Arms;NR;DRAMA;Charles Vidor, John Hudson, John Huston;12/14/1957;9/18/2012;150;Fox;37;1460
+m/10004890-narrow_margin;The Narrow Margin;NR;DRAMA;Richard Fleischer;05/04/1952;8/20/2012;71;Warner Home Video;88;1135
+m/10004925-matador;The Matador;R;ACTION & ADVENTURE;Bob Yari, Richard Shepard;1/27/2006;11/18/2016;97;The Weinstein Company;65;73701
+m/10005057-smile;Smile;PG-13;COMEDY;Jeff Kramer, Jeffrey Kramer;04/08/2005;11/18/2016;107;Dark Forest Releasing;66;2059
+m/10005104-intruder;The Intruder (L'Intrus);G;DRAMA;Claire Denis;12/23/2005;4/25/2006;130;Wellspring;73;9701
+m/10005178-saint_ralph;Saint Ralph;PG-13;COMEDY;Michael McGowan;08/05/2005;05/11/2017;98;IDP;85;6203
+m/10005403-the_baxter;The Baxter;PG-13;COMEDY;Michael Showalter;8/26/2005;07/02/2018;91;IFC Films;75;7436
+m/10005499-oliver_twist;Oliver Twist;PG-13;DRAMA;Roman Polanski;9/30/2005;4/16/2012;130;Sony Pictures;63;23294
+m/1000560-alamo;The Alamo;NR;ACTION & ADVENTURE;John Wayne;10/24/1960;11/30/2016;192;Batjac Productions;63;7337
+m/10005755-g;G;R;DRAMA;Christopher Scott Cherot;9/16/2005;04/10/2018;96;Slow Hand Cinema;60;1143
+m/1000581-alfie;Alfie;PG;COMEDY;Lewis Gilbert;8/24/1966;08/01/2013;114;Paramount Pictures;76;14669
+m/10005819-10005819-neverwas;Neverwas;PG-13;DRAMA;Joshua Michael Stern;09/09/2005;4/19/2016;102;Senator Film;65;4059
+m/10006007-the_second_chance;The Second Chance;PG-13;DRAMA;Steve Taylor;2/17/2006;7/18/2006;104;Sony Pictures;78;79542
+m/10006057-moonlight;Moonlight;R;DRAMA;Paula Van der Oest;10/17/2003;3/13/2020;90;Indican Pictures;67;1430
+m/1000617-aliens;Aliens;R;ACTION & ADVENTURE;James Cameron;7/18/1986;11/25/2015;137;20th Century Fox;94;429674
+m/10006188-rise;Rise: Blood Hunter;R;HORROR;Sebastian Gutierrez;06/01/2007;11/01/2016;97;IDP Distribution;20;8239
+m/1000626-all_about_eve;All About Eve;PG;DRAMA;Joseph L. Mankiewicz;01/01/1950;11/25/2015;138;20th Century Fox;94;45248
+m/10006270;When Do We Eat?;R;COMEDY;Salvador Litvak;04/07/2006;5/22/2017;87;ThinkFilm;68;1121
+m/10006324;The Mostly Unfabulous Social Life of Ethan Green;R;COMEDY;George Bamber;6/16/2006;02/02/2017;88;Regent Releasing;58;2394
+m/10006343-dirty;Dirty;R;DRAMA;Chris Fisher;2/24/2006;4/16/2012;97;SNP Inc.;42;7326
+m/10006370-stay_alive;Stay Alive;PG-13;HORROR;William Brent Bell;3/24/2006;08/09/2016;85;Buena Vista;55;113424
+m/1000640-all_of_me;All of Me;PG;COMEDY;Carl Reiner;9/21/1984;10/30/2016;93;HBO Video;67;14346
+m/1000643-all_quiet_on_the_western_front;All Quiet on the Western Front;NR;DRAMA;Delbert Mann;;4/16/2018;156;Unknown;69;7588
+m/10006434-dreamland;Dreamland;PG-13;DRAMA;Jason Matzner;12/19/2006;4/16/2012;88;Dreamland Motion Picture Co.;65;5650
+m/1000654-all_the_kings_men;All the King's Men;PG;DRAMA;Robert Rossen;11/08/1949;05/01/2013;109;Sony Pictures Home Entertainment;78;4866
+m/10006780-lost_horizon;Lost Horizon;G;ACTION & ADVENTURE;Charles Jarrott;3/17/1973;12/18/2015;143;RCA Video;45;455
+m/10006848-the_motel;The Motel;NR;COMEDY;Michael Kang;6/28/2005;3/17/2017;76;Palm Pictures;64;4038
+m/10006856-requiem;Requiem;NR;DRAMA;Hans-Christian Schmid;10/20/2006;3/23/2017;92;IFC First Take;66;4728
+m/10006940-silk;Gui si (Silk);PG-13;HORROR;Chao-Bin Su;5/24/2006;02/12/2015;117;;57;2531
+m/10007139-park;Park;R;COMEDY;Kurt Voelker;06/12/2006;11/05/2017;86;Mello Pictures;48;684
+m/10007142-the_4th_dimension;The 4th Dimension;NR;DRAMA;Tom Mattera, Dave Mazzoni;04/01/2006;10/09/2017;82;;31;394
+m/10007333-bon_cop_bad_cop;Bon Cop, Bad Cop;R;ACTION & ADVENTURE;Eric Canuel;07/04/2006;05/12/2017;116;Vivafilm;82;20404
+m/10007415-amazing_grace;Amazing Grace;PG;DRAMA;Michael Apted;2/23/2007;11/25/2015;116;Samuel Goldwyn Films LLC;85;54320
+m/10007538-silence;The Silence;R;ACTION & ADVENTURE;Cate Shortland;;11/18/2016;104;;38;374
+m/10007614-gone;Gone;R;HORROR;Ringan Ledwidge;03/09/2007;02/12/2014;88;United International;20;3329
+m/10007714-situation;The Situation;R;DRAMA;Philip Haas;10/18/2006;7/31/2007;106;Shadow Distribution;58;2381
+m/10007856-four_sheets_to_the_wind;Four Sheets to the Wind;R;DRAMA;Sterlin Harjo;1/22/2007;07/09/2016;81;First Look Home Entertainment;61;519
+m/10007886-the_tigers_tail;The Tiger's Tail;R;COMEDY;John Boorman;9/26/2006;7/20/2016;106;Buena Vista;30;660
+m/10007893-its_a_boy_girl_thing;It's a Boy Girl Thing;PG-13;COMEDY;Nick Hurran;12/26/2006;11/30/2016;95;Anchor Bay Entertainment;61;30371
+m/10007898-slipstream;Slipstream;R;COMEDY;Anthony Hopkins;10/26/2007;4/16/2012;97;Strand Releasing;29;3523
+m/10007902-delirious;Delirious;NR;COMEDY;Tom DiCillo;8/15/2007;10/13/2020;107;Peace Arch Films;57;8464
+m/10007916_interview;Interview;R;DRAMA;Steve Buscemi;7/13/2007;4/16/2012;84;Sony Classics;55;25860
+m/1000792-american_anthem;American Anthem;PG-13;ACTION & ADVENTURE;Albert Magnoli;06/01/1986;12/03/2013;102;Lorimar Home Video;65;1341
+m/10007947-ten;The Ten;R;COMEDY;David Wain;1/18/2007;2/26/2016;99;ThinkFilm;40;77951
+m/10007985-happening;The Happening;R;DRAMA;M. Night Shyamalan;06/11/2008;11/25/2015;89;20th Century Fox;24;370222
+m/10008005-moliere;MoliÃ¨re;PG-13;COMEDY;Laurent Tirard, Laurent Sivot;7/27/2007;03/09/2014;120;Sony Pictures Classics;79;10937
+m/10008126-straightheads;Straightheads (Closure);R;DRAMA;Dan Reed;4/27/2007;05/01/2012;88;Sony Pictures Entertainment;32;4645
+m/10008140-borderland;Borderland;R;DRAMA;Zev Berman;11/09/2007;08/10/2016;104;After Dark Films;43;4194
+m/10008200-spiral;Spiral;PG-13;DRAMA;Adam Green, Joel David Moore;1/27/2007;8/13/2017;90;Anchor Bay Entertainment;59;9001
+m/10008234-alexandra;Alexandra;NR;DRAMA;Aleksandr Sokurov;5/25/2007;02/11/2015;95;The Cinema Guild;69;1333
+m/10008496-pathology;Pathology;R;DRAMA;Marc Scholermann, Marc Schoelermann;4/18/2008;1/17/2017;93;MGM;39;49454
+m/10008502-christmas_carol;Disney's A Christmas Carol;PG;DRAMA;Robert Zemeckis;11/06/2009;11/23/2015;95;Walt Disney Studios;58;776189
+m/10008562-road_to_victory;Road to Victory;NR;DRAMA;Mike Reilly;3/18/2007;07/11/2016;99;Vanguard;78;89
+m/10008587-beverly_hills_chihuahua;Beverly Hills Chihuahua;PG;COMEDY;Raja Gosnell;9/30/2008;12/13/2015;91;Walt Disney Pictures;52;186570
+m/10008601-fireflies_in_the_garden;Fireflies in the Garden;R;DRAMA;Dennis Lee (III);10/14/2011;01/09/2014;98;Senator Entertainment;45;45155
+m/10008606-eye;The Eye;PG-13;DRAMA;David Moreau, Xavier Palud;02/01/2008;11/09/2016;97;Lionsgate Films;43;303458
+m/10008607-day_of_the_dead;Day of the Dead;R;HORROR;Steve Miner;04/01/2008;10/07/2016;87;First Look International;22;11098
+m/10008611-my_best_friends_girl;My Best Friend's Girl;R;COMEDY;Howard Deutch;9/18/2008;09/09/2016;103;Lionsgate;46;86594
+m/10008613-burrowers;The Burrowers;R;HORROR;J.T. Petty;09/01/2008;11/07/2016;96;Lions Gate Films;34;10869
+m/10008617-midnight_meat_train;The Midnight Meat Train;R;DRAMA;Ryuhei Kitamura;8/14/2008;10/18/2016;100;Lionsgate Films;50;143577
+m/10008618-return;The Lucky Ones;R;COMEDY;Neil Burger;9/26/2008;10/06/2016;115;Lionsgate;54;11792
+m/10008621-run_fat_boy_run;Run Fatboy Run;PG-13;COMEDY;David Schwimmer;09/07/2007;07/02/2010;100;Picturehouse;64;102884
+m/10008652-closing_escrow;Closing Escrow;PG;COMEDY;Armen Kaprelian, Kent G. Llewellyn, Kent Llewellyn;2/28/2007;08/10/2016;95;Magnolia Pictures;36;1123
+m/10008655-whiteout;Whiteout;R;ACTION & ADVENTURE;Dominic Sena;09/11/2009;6/17/2011;101;Warner Bros. Pictures;21;538861
+m/10008661-randy_and_the_mob;Randy and the Mob;PG;COMEDY;Ray McKinnon;10/13/2007;5/14/2017;99;Capricorn Pictures;39;288
+m/10008667-black_irish;Black Irish;R;DRAMA;Brad Gann;10/26/2007;5/24/2020;94;Anywhere;58;1685
+m/10008678-wild_child;Wild Child;PG-13;COMEDY;Nicholas Moore, Nick Moore;8/14/2008;02/12/2014;98;Universal Pictures;61;17496
+m/10008687-powder_blue;Powder Blue;R;DRAMA;Timothy Linh Bui;05/08/2009;4/17/2017;108;Speakeasy Releasing;40;7416
+m/10008700-darfur_now;Darfur Now;PG;DRAMA;Ted Braun;11/09/2007;5/27/2008;99;Warner Independent Pictures;73;2308
+m/10008701-laaga_chunari_mein_daag;Laaga Chunari Mein Daag - Journey of a Woman;NR;DRAMA;Pradeep Sarkar;10/12/2007;03/02/2017;138;Yash Raj Films;58;3785
+m/10008703-rails_and_ties;Rails & Ties;PG-13;DRAMA;Alison Eastwood;10/26/2007;12/31/2009;101;Warner Independent;58;10100
+m/10008706-house;House;R;DRAMA;Robby Henson;11/07/2008;10/06/2016;88;Roadside Attractions;27;16715
+m/10008744-canvas;Canvas;PG-13;DRAMA;Joseph Greco;10/12/2007;1/26/2016;101;Screen Media Films;62;571
+m/10008748-saawariya;Saawariya;PG;DRAMA;Sanjay Leela Bhansali;11/09/2007;05/01/2012;146;Sony Pictures;46;5828
+m/10008752-aaja_nachle;Aaja Nachle;NR;DRAMA;Anil Mehta;11/30/2007;03/11/2017;147;Yash Raj Films;72;4354
+m/10008754-flawless;Flawless;PG-13;DRAMA;Michael Radford;3/28/2008;2/17/2017;106;Magnolia Pictures;54;12577
+m/10008760-what_happens_in_vegas;What Happens in Vegas;PG-13;COMEDY;Tom Vaughan;4/22/2008;9/18/2012;99;20th Century Fox;65;501711
+m/10008785-appaloosa;Appaloosa;R;ACTION & ADVENTURE;Ed Harris;10/03/2008;11/02/2010;116;Warner Bros. Pictures;55;55694
+m/10008786-good;Good;R;DRAMA;Vicente Amorim;09/08/2008;08/10/2016;96;ThinkFilm;32;41569
+m/10008820-visitor;The Visitor;PG-13;DRAMA;;4/25/2008;1/13/2017;103;Overture Films;84;127079
+m/10008830-bill;Meet Bill;R;COMEDY;Melisa Wallack, Bernie Goldmann;04/04/2008;12/12/2016;92;First Look;44;8165
+m/10008849-married_life;Married Life;PG-13;COMEDY;Ira Sachs;03/07/2008;02/12/2014;90;Sony Classics;36;5083
+m/10008856-badland;Badland;R;DRAMA;Francesco Lucente;11/30/2007;1/19/2017;165;Arcangelo Entertainment;54;294
+m/10008924-oxford_murders;The Oxford Murders;R;DRAMA;Ãlex de la Iglesia;08/06/2010;2/23/2017;110;Magnolia Pictures;33;14554
+m/10008954-untraceable;Untraceable;R;DRAMA;Gregory Hoblit;1/25/2008;4/16/2012;101;Sony/Screen Gems;52;225138
+m/10008991-informers;The Informers;R;DRAMA;Gregor Jordan;4/24/2009;4/16/2012;98;Senator International;18;18505
+m/10009001-the_freshman;The Freshman;PG;COMEDY;Andrew Bergman;7/20/1990;05/01/2013;102;Sony Pictures Home Entertainment;61;11850
+m/10009005-a_bloody_aria;Guta-yubalja-deul (A Bloody Aria);NR;DRAMA;Shin-yeon Won;5/31/2006;3/28/2017;115;;40;297
+m/10009029-kenny;Kenny;PG-13;COMEDY;Clayton Jacobson;3/21/2008;4/17/2020;100;Xenon Pictures;86;8978
+m/10009055-rocker;The Rocker;PG-13;COMEDY;Peter Cattaneo;06/12/2008;11/25/2015;102;Fox Atomic;46;44190
+m/10009063-perfect_holiday;The Perfect Holiday;PG-13;ROMANCE;Lance Rivera;12/12/2007;4/16/2012;96;Yari Film Group;52;159645
+m/10009066-la_graine_et_le_mulet;La Graine et le Mulet (The Secret of the Grain) (Couscous);NR;DRAMA;Abdel Kechiche;09/03/2007;5/23/2017;151;IFC Films;76;9062
+m/10009083-land_of_the_lost;Land of the Lost;PG-13;ACTION & ADVENTURE;Brad Silberling, Adam McKay;06/05/2009;12/10/2015;102;Universal Pictures;32;542684
+m/10009132-rec;[Rec];R;HORROR;Jaume BalaguerÃ³, Paco Plaza;11/23/2007;4/16/2012;78;Odeon Sky Filmworks;82;50437
+m/10009138-look;Look;R;COMEDY;Adam Rifkin;12/14/2007;05/05/2009;98;Liberated Artists;56;709
+m/1000915-and_god_created_woman;And God Created Woman;R;COMEDY;Roger Vadim;01/01/1988;01/03/2016;98;Vestron Video;33;1598
+m/10009151-box;The Box;PG-13;HORROR;Richard Kelly;11/06/2009;08/01/2011;113;Warner Bros. Pictures;24;359098
+m/10009169-man_in_the_chair;Man in the Chair;PG-13;COMEDY;Michael Schroeder;12/07/2007;9/27/2016;109;Outsider Films;68;931
+m/10009172-undoing;Undoing;R;DRAMA;Chris Chan Lee;6/24/2006;3/29/2017;90;Indican;26;372
+m/10009176-black_water;Black Water;R;HORROR;David Nerlich, Andrew Traucki;2/19/2008;4/16/2012;90;GGrindstone Entertainment Group;39;3952
+m/10009192-21;21;PG-13;DRAMA;Robert Luketic;3/28/2008;4/16/2012;122;Sony/Columbia Pictures;66;367852
+m/10009210-duchess_of_langeais;The Duchess of Langeais (Ne Touchez Pas La Hache)(Don't Touch the Axe);NR;DRAMA;Jacques Rivette;2/15/2007;04/10/2017;137;IFC First Take;52;865
+m/10009212-ben_x;Ben X;NR;DRAMA;Nic Balthazar;9/26/2007;1/25/2017;93;Film Movement;80;6744
+m/10009225-body_of_lies;Body of Lies;R;DRAMA;Ridley Scott;10/08/2008;09/01/2010;128;Warner Bros. Pictures;62;130010
+m/10009239-passengers;Passengers;PG-13;DRAMA;Rodrigo GarcÃ­a;10/24/2008;01/02/2014;92;Sony Pictures/TriStar Pictures;35;29523
+m/10009244-the_grand;The Grand;R;COMEDY;Zak Penn;01/11/2008;11/16/2015;104;Anchor Bay Entertainment;43;3058
+m/10009253-the_hammer;The Hammer;R;COMEDY;Charles Herman-Wurmfeld;4/26/2007;08/10/2016;93;IFC Films;90;4944
+m/10009254-shutter;Shutter;PG-13;HORROR;Masayuki Ochiai;3/19/2008;8/22/2016;85;20th Century Fox;33;241178
+m/10009274-priest;Priest;PG-13;ACTION & ADVENTURE;Scott Stewart;5/13/2011;4/16/2012;87;Screen Gems/SONY PICTURES;46;86623
+m/10009323-broken;The Broken;R;HORROR;Sean Ellis (II);;12/29/2016;88;After Dark Films;25;2548
+m/10009355-sugar;Sugar;R;DRAMA;Anna Boden, Ryan Fleck;1/21/2008;4/16/2012;118;Sony Classics;80;12642
+m/10009420-quid_pro_quo;Quid Pro Quo;R;DRAMA;Carlos Brooks;1/20/2008;08/10/2016;81;Magnolia Pictures;54;1775
+m/10009421-red;Red;R;DRAMA;Trygve Allister Diesen, Lucky McKee;08/08/2008;07/08/2016;95;Magnolia Pictures;68;2607
+m/10009426-guitar;The Guitar;R;DRAMA;Amy Redford;11/07/2008;02/10/2009;95;Lightning Media;55;1058
+m/10009460-the_road;The Road;R;DRAMA;John Hillcoat;11/25/2009;4/16/2012;110;The Weinstein Company;68;248465
+m/10009462-g_force;G-Force;PG;ACTION & ADVENTURE;Hoyt Yeatman, Hoyt Yeatman IV;7/24/2009;6/30/2016;88;Walt Disney Pictures;39;964669
+m/10009469-the_other_man;The Other Man;R;DRAMA;Richard Eyre;12/03/2008;01/04/2017;90;Image Entertainment;18;4522
+m/10009493-duchess;The Duchess;PG-13;DRAMA;Saul Dibb;09/05/2008;01/02/2017;109;Paramount Vantage;67;68912
+m/10009516-women;The Women;PG-13;COMEDY;Diane English;09/04/2008;11/01/2010;114;Picturehouse Entertainment;38;62045
+m/10009526-public_enemies;Public Enemies;R;ACTION & ADVENTURE;Michael Mann;07/01/2009;12/10/2015;140;Universal Studios;59;633778
+m/10009547-night_and_day;Night and Day (Bam gua nat);NR;DRAMA;Hong Sang-soo;10/23/2009;;;IFC Films;68;336
+m/10009552-julia;Julia;R;DRAMA;Erick Zonca;05/08/2009;11/27/2013;144;Magnolia Pictures;67;17308
+m/1000957-angel_and_the_badman;Angel and the Badman;PG;WESTERN;James Edward Grant;2/15/1947;6/30/2016;100;Republic Pictures;67;6982
+m/1000959-angel_heart;Angel Heart;R;DRAMA;Alan Parker;03/06/1987;08/10/2016;113;TriStar Pictures;81;30089
+m/10009596-old_dogs;Old Dogs;PG;COMEDY;Walt Becker, Walter Becker;11/25/2009;07/01/2016;88;Walt Disney Pictures;44;182900
+m/10009598-surrogates;Surrogates;PG-13;ACTION & ADVENTURE;Jonathan Mostow;9/25/2009;08/10/2016;88;Touchstone Pictures;38;295050
+m/10009624-promotion;The Promotion;R;COMEDY;Steven Conrad;03/09/2008;03/05/2016;86;Weinstein Company;28;84738
+m/10009632-notorious;Notorious;R;DRAMA;George Tillman Jr.;1/16/2009;11/25/2015;122;Fox Searchlight Pictures;65;97063
+m/10009635-soul_men;Soul Men;R;COMEDY;Malcolm D. Lee;11/07/2008;2/14/2017;100;MGM;58;54256
+m/10009636-igor;Igor;PG;COMEDY;Anthony Leondis, Tony Leondis;9/19/2008;4/13/2017;86;MGM;38;82504
+m/10009791-auteur;The Auteur;NR;COMEDY;James Westby;01/01/2008;3/15/2016;80;FilmBuff;41;266
+m/10009799-caller;The Caller;PG-13;DRAMA;Richard Ledes;9/26/2008;4/14/2009;95;Virgil Films & Entertainment;19;334
+m/10009823-sin_nombre;Sin Nombre;R;DRAMA;Cary Joji Fukunaga;3/20/2009;08/10/2016;96;Focus Features;89;21295
+m/10009828-house_of_sleeping_beauties;Das Haus der Schlafenden SchÃ¶nen (House of the Sleeping Beauties);NR;DRAMA;Vadim Glowna;11/14/2008;4/21/2009;99;First Run Features;17;173
+m/10009890-stone_angel;The Stone Angel;R;DRAMA;Kari Skogland;09/12/2007;10/21/2008;115;Vivendi Entertainment;58;3026
+m/10009926-alvin_and_the_chipmunks_2;Alvin and the Chipmunks: The Squeakquel;PG;COMEDY;Betty Thomas;12/23/2009;11/25/2015;89;20th Century Fox;49;368619
+m/10009929-a_christmas_tale;Un Conte de NoÃ«l (A Christmas Tale);NR;COMEDY;Arnaud Desplechin;11/14/2008;10/15/2016;150;IFC Films;66;23425
+m/10009980-rebound;The Rebound;R;COMEDY;Bart Freundlich;02/06/2009;09/01/2013;97;Momentum Picutres;46;31189
+m/10009992-ripple_effect;Ripple Effect;R;DRAMA;Philippe Caland;07/11/2008;11/19/2015;83;Monterey Media;;
+m/1000_times_good_night;1,000 Times Good Night;NR;DRAMA;Erik Poppe;10/24/2014;08/10/2016;117;Film Movement;65;1884
+m/10010011-harold;Harold;PG-13;COMEDY;T. Sean Shannon;07/11/2008;01/01/2017;94;Arsenal Pictures;41;793
+m/10010066-push;Push;PG-13;SCIENCE FICTION & FANTASY;Paul McGuigan;02/06/2009;12/19/2015;111;Summit Entertainment;42;2026452
+m/10010077-felon;Felon;R;ACTION & ADVENTURE;Ric Roman Waugh;7/17/2008;01/01/2013;104;Sony Pictures Entertainment;82;13899
+m/10010131-scar;Scar;R;DRAMA;Jed Weintrob;5/20/2007;11/18/2016;78;Unknown;11;689
+m/10010150-unborn;The Unborn;PG-13;HORROR;David S. Goyer;01/09/2009;05/08/2015;88;Rogue Pictures;30;831848
+m/10010153-bitch_slap;Bitch Slap;R;ACTION & ADVENTURE;Rick Jacobson;01/08/2010;02/01/2014;104;Freestyle Releasing;29;10344
+m/10010155-forever_strong;Forever Strong;PG-13;DRAMA;Ryan Little;9/26/2008;11/30/2016;112;Crane Movie Company;75;9885
+m/10010208-chocolate;Chocolate;R;ACTION & ADVENTURE;Prachya Pinkaew;02/06/2008;03/09/2017;110;Magnolia Pictures;73;12249
+m/10010214-fireproof;Fireproof;PG;DRAMA;Alex Kendrick;9/26/2008;4/16/2012;122;Sherwood Pictures;82;39765
+m/10010229-dostana;Dostana;R;COMEDY;Tarun Mansukhani, Raj Khosla;11/13/2008;03/08/2017;145;Yash Raj Films;68;4448
+m/10010329-splinter;Splinter;R;HORROR;Toby Wilkins;10/31/2008;3/19/2015;82;Magnolia Pictures/Magnet Pictures;49;13218
+m/10010334-leaves_of_grass;Leaves of Grass;R;COMEDY;Tim Blake Nelson;04/02/2010;1/25/2017;104;First Look Studios;49;15345
+m/10010335-rab_ne_bana_di_jodi;Rab Ne Bana Di Jodi (A Couple Made by God) (A Match Made in Heaven);NR;ROMANCE;Aditya Chopra;12/11/2008;;96;Yash Raj Films;71;4363
+m/10010458-proposal;The Proposal;PG-13;COMEDY;Anne Fletcher;6/19/2009;11/22/2015;108;Walt Disney Pictures;67;860325
+m/10010552-gigantic;Gigantic;R;COMEDY;Matt Aselton;04/03/2009;05/03/2017;99;First Independent Pictures;34;97063
+m/1001063-anna_karenina;Anna Karenina;NR;DRAMA;Clarence Brown;01/01/1935;08/04/2008;95;WARNER BROTHERS PICTURES;69;3066
+m/10010658-orphan;Orphan;R;DRAMA;Jaume Collet-Serra;7/24/2009;7/24/2014;123;Warner Bros. Pictures;63;872860
+m/10010662-my_sisters_keeper;My Sister's Keeper;PG-13;DRAMA;;6/26/2009;5/15/2014;108;Warner Bros. Pictures;72;365345
+m/10010667-hangover;The Hangover;R;COMEDY;Todd Phillips;06/05/2009;01/07/2014;99;Warner Bros. Pictures;84;943179
+m/10010668-stepfather;The Stepfather;PG-13;HORROR;Nelson McCormick;10/16/2009;04/09/2013;101;Screen Gems;35;982237
+m/10010675-departures;Okuribito (Departures);PG-13;DRAMA;Yojiro Takita;5/29/2009;12/22/2016;130;Regent Releasing;92;51962
+m/10010680-boogie;Boogie (Summer Holiday);NR;COMEDY;Radu Muntean;5/16/2008;11/28/2016;102;IFC Films;67;354
+m/10010694-season_of_the_witch;Season of the Witch;PG-13;ACTION & ADVENTURE;Dominic Sena;01/07/2011;6/23/2011;95;Relativity Media;30;79868
+m/10010760-miss_march;Miss March;R;COMEDY;Zach Cregger, Trevor Moore;3/13/2009;11/25/2015;89;20th Century Fox;29;79384
+m/10010782-american_affair;An American Affair;R;DRAMA;William Olsson, William Sten Olsson;2/27/2009;08/10/2016;93;Screen Media Films;41;1722
+m/10010785-grace;Grace;R;DRAMA;Paul Solet;8/14/2009;3/26/2017;94;Anchor Bay Entertainment;31;10269
+m/10010787-endgame;Endgame;PG-13;DRAMA;Pete Travis;11/06/2009;3/19/2015;109;Monterey Media;57;662
+m/10010789-red_baron;The Red Baron (Der rote Baron);PG-13;ACTION & ADVENTURE;Nikolai Muellerschoen;3/31/2008;8/20/2014;106;Monterey Media;43;11070
+m/10010919-objective;The Objective;NR;ACTION & ADVENTURE;Daniel Myrick;4/24/2008;4/28/2016;90;IFC Films;32;3690
+m/10010940-happy_tears;Happy Tears;R;COMEDY;Mitchell Lichtenstein;2/19/2010;08/10/2016;96;Roadside Attractions;21;1551
+m/10010944-missing_person;The Missing Person;NR;COMEDY;Noah Buschel;11/20/2009;08/10/2016;95;Strand Releasing;44;6767
+m/10010957-polanski_unauthorized;Polanski (Polanski Unauthorized);NR;DRAMA;Damian Chapa;01/09/2009;12/12/2016;89;Walking Shadows;38;231
+m/10010972-mammoth;Mammoth (Mammut);R;DRAMA;Lukas Moodysson;11/20/2009;11/18/2016;125;IFC Films;63;7007
+m/10011016-messenger;The Messenger;R;DRAMA;Oren Moverman;11/13/2009;03/08/2017;112;Oscilloscope Pictures;75;21592
+m/10011050-lake_mungo;Lake Mungo;R;HORROR;Joel Anderson;02/07/2009;08/10/2016;89;After Dark Films;62;2856
+m/10011079-country_teacher;VenkovskÃ½ Ucitel (The Country Teacher);NR;DRAMA;Bohdan SlÃ¡ma;3/20/2008;9/22/2016;115;Film Movement;72;1723
+m/1001115-apartment;The Apartment;NR;COMEDY;Billy Wilder;6/15/1960;3/29/2016;125;United Artists;94;38188
+m/10011154-golden_boys;Chatham (The Golden Boys);PG;COMEDY;Daniel Adams;4/17/2009;11/18/2016;97;Roadside Attractions;22;801
+m/1001117-ape;The Ape;NR;DRAMA;William Nigh;9/30/1940;08/07/2015;62;Monogram;12;510
+m/10011235-fame;Fame;PG;DRAMA;Kevin Tancharoen;9/25/2009;2/25/2016;107;MGM;36;194974
+m/10011284-skin;Skin;PG-13;DRAMA;Anthony Fabian;10/30/2009;3/22/2016;107;Elysian Films;79;2118
+m/10011303-helen;Helen;PG;DRAMA;Christine Molloy, Joe Lawlor (II);05/01/2008;9/30/2016;79;New Wave Films;36;172
+m/10011304-thirst;Bakjwi (Thirst);R;DRAMA;Park Chan-wook;4/30/2009;4/19/2016;133;Focus Features;75;19477
+m/10011335-vengeance;Vengeance (Fuk sau);R;ACTION & ADVENTURE;Johnnie To;08/04/2010;02/07/2017;108;IFC Films;60;1881
+m/1001138-april_fools_day;April Fool's Day;R;HORROR;Fred Walton;3/27/1986;08/01/2013;89;Paramount Pictures;47;13437
+m/10011388-blood_the_last_vampire;Blood: The Last Vampire;R;ACTION & ADVENTURE;Chris Nahon;07/10/2009;02/12/2014;89;Samuel Goldwyn Films;33;94562
+m/10011435-shrink;Shrink;R;COMEDY;Jonas Pate;7/24/2009;05/10/2016;104;Roadside Attractions;50;42784
+m/10011457-ong_bak_2_2009;Ong Bak 2;R;ACTION & ADVENTURE;Panna Rittikrai, Prachya Pinkaew, Tony Jaa;10/23/2009;08/10/2016;97;Magnolia Pictures;53;21197
+m/10011494-last_ride;Last Ride;PG-13;DRAMA;Glendyn Ivin;6/29/2012;08/10/2016;100;Music Box Films;65;3560
+m/10011582-TRON_legacy;Tron Legacy;PG;ACTION & ADVENTURE;Joseph Kosinski;12/17/2010;11/23/2015;125;Walt Disney Pictures;63;171610
+m/10011647-canyon;The Canyon;R;DRAMA;Richard Harrah;10/23/2009;11/27/2013;102;Magnolia Pictures;32;613
+m/10011699-leslie_my_name_is_evil;Manson, My Name Is Evil;R;COMEDY;Reginald Harkema;9/14/2009;01/06/2017;85;E1 Entertainment;27;2341
+m/10011721-broken_hill;Broken Hill;PG;DRAMA;Dagen Merrill;09/11/2009;11/22/2016;102;Audience Alliance;61;310
+m/10011735-beautiful_life;A Beautiful Life;NR;DRAMA;Alejandro Chomski;10/02/2009;5/17/2019;81;New Films International;24;147
+m/10011736-suck;Suck;R;COMEDY;Rob Stefaniuk;08/02/2010;08/10/2016;91;Independent Films;53;1880
+m/10011774-chloe;Chloe;R;DRAMA;Atom Egoyan;3/26/2010;4/16/2012;96;Sony Pictures Classics;39;30602
+m/1001180-armed_and_dangerous;Armed and Dangerous;PG-13;COMEDY;Mark L. Lester;8/15/1986;4/16/2012;88;Sony Pictures Home Entertainment;39;9340
+m/10011815-hole;The Hole;PG-13;SCIENCE FICTION & FANTASY;Joe Dante;9/28/2012;08/08/2016;92;Hole LLC.;46;14727
+m/10011846-nobodys_perfect;NoBody's Perfect;NR;DRAMA;Niko von Glasow;09/08/2008;09/01/2016;84;Lorber Films;87;85
+m/10011854-good_soldier;The Good Soldier;NR;DRAMA;Michael Uys, Lexy Lovell;10/09/2009;12/09/2016;79;Artistic License;80;130
+m/10011857-high_life;High Life;R;COMEDY;Gary Yates;9/15/2009;12/15/2016;80;Union Pictures;43;631
+m/1001193-around_the_world_in_80_days;Around the World in 80 Days;G;ACTION & ADVENTURE;Michael Anderson;10/17/1956;3/29/2017;170;United Artists;57;33440
+m/10011943-fall;The Fall;R;DRAMA;John Krueger;10/30/2009;9/22/2016;115;Dangerous Wounded Animals;;
+m/10011944-good_heart;The Good Heart;R;DRAMA;Dagur KÃ¡ri;4/30/2010;01/08/2017;98;Magnolia Pictures;58;1590
+m/10011946-wonderful_world;Wonderful World;R;DRAMA;Joshua Goldin;01/08/2010;1/15/2016;95;Magnolia Pictures;33;1741
+m/10011950-three_blind_mice;Three Blind Mice;PG;COMEDY;Matthew Newton;;04/10/2017;94;IFC Films;50;229
+m/10011984-last_song;The Last Song;PG;DRAMA;Julie Ann Robinson;3/31/2010;08/10/2016;108;Walt Disney Studios;66;160802
+m/10012039-lottery_ticket;Lottery Ticket;PG-13;COMEDY;Erik White;8/20/2010;4/16/2012;95;Warner Bros. Pictures;44;29996
+m/10012042-going_the_distance;Going the Distance;R;COMEDY;Nanette Burstein;09/03/2010;09/01/2012;98;New Line Cinema;52;57438
+m/10012044-life_as_we_know_it;Life as We Know It;PG-13;COMEDY;Gary Berlanti, Greg Berlanti;10/08/2010;06/01/2013;113;Warner Bros. Pictures;61;82457
+m/10012050-final;The Final;R;DRAMA;Joey Stewart;1/29/2010;10/30/2016;;After Dark Films;32;1088
+m/10012051-frozen;Frozen;R;DRAMA;Adam Green;02/05/2010;11/30/2016;93;Anchor Bay;46;20649
+m/10012063-ghost_writer;The Ghost Writer;PG-13;DRAMA;HervÃ© de Luze, Roman Polanski;2/19/2010;8/26/2016;129;Summit Entertainment;70;60373
+m/10012068-repo_men;Repo Men;R;ACTION & ADVENTURE;Miguel Sapochnik;3/19/2010;02/12/2014;111;Universal Studios;41;100490
+m/10012104-7_days;7 Days (Les 7 jours du talion);R;HORROR;Daniel Grou;02/05/2010;3/29/2017;105;Sundance Selects;68;1474
+m/10012114-daddy_longlegs;Daddy Longlegs;NR;COMEDY;Benny Safdie, Josh Safdie;5/14/2010;;;IFC Films;52;542
+m/10012133-veer;Veer;NR;DRAMA;Anil Sharma;1/22/2010;03/07/2017;156;Eros Entertainment;47;1151
+m/10012136-winters_bone;Winter's Bone;R;DRAMA;Debra Granik;06/11/2010;12/19/2015;99;Roadside Attractions;76;51756
+m/10012141-kids_are_all_right;The Kids Are All Right;R;COMEDY;Lisa Cholodenko;07/09/2010;12/01/2015;104;Focus Features;74;63588
+m/10012150-high_school;High School;R;COMEDY;John Stalberg, Jr.;06/01/2012;03/02/2017;99;Anchor Bay Entertainment;48;8211
+m/10012207-stolen;Stolen;R;DRAMA;Anders Anderson;03/05/2010;4/28/2016;97;IFC Films;39;2695
+m/10012232-killing_jar;The Killing Jar;R;DRAMA;Mark Young;3/19/2010;5/22/2017;90;Image Entertianment;36;589
+m/10012254-la_mission;La MISSION;R;DRAMA;Peter Bratt;04/09/2010;3/23/2017;117;Screen Media Ventures;72;5867
+m/10012256-predators;Predators;R;ACTION & ADVENTURE;NimrÃ³d Antal;07/09/2010;11/25/2015;107;20th Century Fox;52;159887
+m/10012288-wild_hunt;The Wild Hunt;NR;DRAMA;Alexandre Franchi;9/17/2010;5/18/2012;96;Hannover House;74;711
+m/1001240-arthur;Arthur;PG;COMEDY;Steve Gordon;7/17/1981;8/15/2008;97;Orion Pictures Corporation;77;33549
+m/1001280-assault_on_precinct_13;Assault on Precinct 13;R;ACTION & ADVENTURE;John Carpenter;11/05/1976;8/16/2016;91;Turtle Releasing;80;24667
+m/1001294-asylum;Asylum;PG;HORROR;Peter Robinson;11/17/1972;09/06/2016;88;Cinerama Releasing Corporation;48;303
+m/1001323-attack_of_the_50_foot_woman;Attack of the 50 Foot Woman;PG;SCIENCE FICTION & FANTASY;Nathan Juran;01/01/1958;11/01/2015;66;Allied Artists Pictures;20;8585
+m/1001406-avenging_angel;Avenging Angel;R;ACTION & ADVENTURE;Robert Vincent O'Neil;;01/06/2015;93;Starmaker Entertainment;25;1544
+m/1001425-aviator;The Aviator;PG;ACTION & ADVENTURE;George T. Miller;03/01/1985;1/17/2017;98;Twentieth Century Fox Home Entertainment;41;239
+m/1001428-awakening;The Awakening;R;HORROR;Mike Newell;10/01/1980;01/01/2008;102;WARNER BROTHERS PICTURES;22;421
+m/1001488-babes_in_toyland;Babes in Toyland;G;SCIENCE FICTION & FANTASY;Jack Donohue;12/14/1961;03/02/2016;106;Buena Vista;59;10335
+m/1001553-bad_company;Bad Company;PG;ACTION & ADVENTURE;Robert Benton;10/08/1972;08/01/2013;93;Paramount Pictures;71;2298
+m/1001567-bad_news_bears;The Bad News Bears;PG;COMEDY;Michael Ritchie;04/07/1976;08/01/2013;102;Paramount Pictures;80;40382
+m/1001572-bad_seed;The Bad Seed;NR;DRAMA;Mervyn LeRoy;09/12/1956;4/19/2016;129;WARNER BROTHERS PICTURES;83;8639
+m/1001634-bang_the_drum_slowly;Bang The Drum Slowly;PG;COMEDY;John D. Hancock, John Hancock;01/01/1973;8/24/2018;96;Paramount Pictures;62;3796
+m/1001816-battleground;Battleground;NR;ACTION & ADVENTURE;William Wellman;11/09/1949;8/18/2008;118;MGM;82;2737
+m/1001902-beauty_and_the_beast;Beauty and The Beast (La Belle et la bÃªte);NR;DRAMA;Jean Cocteau;01/01/1946;1/14/2017;95;Lopert Pictures;90;22615
+m/1001994-belles_of_st_trinians;The Belles of St. Trinian's;NR;ACTION & ADVENTURE;Frank Launder;;04/07/2020;91;Associated Artists;70;1293
+m/1001_grams;1001 Grams;NR;DRAMA;Bent Hamer;05/08/2015;10/06/2016;93;Kino Lorber;48;267
+m/1002178-best_of_times;The Best of Times;PG-13;COMEDY;Roger Spottiswoode;1/31/1986;03/10/2017;104;Sultan Entertainment;43;6519
+m/1002205-betrayed;Betrayed;R;ACTION & ADVENTURE;Betsy Blair, Debra Winger, John Heard, John Mahoney, Ted Levine, Tom Berenger, Costa-Gavras;8/26/1988;11/30/2016;127;MGM Home Entertainment;52;739
+m/1002306-big_brawl;The Big Brawl (Battle Creek Brawl);R;ACTION & ADVENTURE;Robert Clouse;09/10/1980;07/06/2016;95;Golden Harvest Company;44;5475
+m/1002310-big_business;Big Business;PG;COMEDY;Jim Abrahams;06/10/1988;03/02/2016;97;;69;20086
+m/1002332-big_heat;The Big Heat;PG;DRAMA;Fritz Lang;;4/25/2014;90;Columbia Pictures;90;5964
+m/1002352-big_sleep;The Big Sleep;PG;DRAMA;Howard Hawks;8/31/1946;09/11/2015;114;Warner Bros. Pictures;91;33511
+m/1002353-big_sleep;The Big Sleep;R;DRAMA;Michael Winner;;03/10/2017;99;United Artists;26;1464
+m/1002407-billy_budd;Billy Budd;NR;ACTION & ADVENTURE;Peter Ustinov;11/12/1962;5/22/2017;123;Allied Artists Pictures;86;7
+m/1002448-birds;The Birds;PG-13;HORROR;Alfred Hitchcock;3/28/1963;10/01/2014;119;Universal Pictures;83;176580
+m/1002484-black_christmas;Black Christmas;R;HORROR;Bob Clark;12/20/1974;12/13/2016;98;Warner Bros. Pictures;75;23059
+m/1002497-black_hole;The Black Hole;PG;ACTION & ADVENTURE;Gary Nelson;01/01/1979;05/10/2016;97;Walt Disney Productions;45;9807
+m/1002511-black_pirate;The Black Pirate;NR;ACTION & ADVENTURE;Albert Parker;03/08/1926;08/11/2016;85;United Artists;68;1416
+m/1002512-black_rain;Black Rain;R;ACTION & ADVENTURE;Ridley Scott;;08/01/2013;125;Paramount Home Video;55;27792
+m/1002526-black_sunday;Black Sunday;R;ACTION & ADVENTURE;John Frankenheimer;03/11/1977;08/10/2016;143;Anchor Bay Entertainment;64;3906
+m/1002531-black_widow;Black Widow;R;DRAMA;Bob Rafelson;02/06/1987;08/10/2016;102;Twentieth Century Fox Home Entertainment;40;3803
+m/1002540-blackmail;Blackmail;NR;DRAMA;Alfred Hitchcock;10/06/1929;11/30/2016;86;Scott Entertainment;65;4731
+m/1002571-blind_date;Blind Date;PG-13;COMEDY;Blake Edwards;3/27/1987;4/16/2012;93;Tri-Star Pictures;42;18540
+m/1002598-blood_and_sand;Blood and Sand;NR;DRAMA;Rouben Mamoulian;5/22/1941;04/06/2014;120;20th Century Fox;67;636
+m/1002611-blood_feast;Blood Feast;NR;HORROR;Herschell Gordon Lewis;01/01/1963;8/25/2018;58;Box Office Spectaculars;44;6249
+m/1002681-blue_angel;Der Blaue Engel (The Blue Angel);NR;DRAMA;Josef von Sternberg;04/01/1930;02/06/2017;94;Universum Film Gmbh;87;5696
+m/1002732-bluebeard;Bluebeard;G;DRAMA;Edgar G. Ulmer;11/11/1944;06/07/2017;73;PRC Pictures Inc.;38;800
+m/1002907-border;The Border;R;ACTION & ADVENTURE;Tony Richardson;1/29/1982;08/10/2016;107;Universal Pictures;53;3285
+m/1002930-born_yesterday;Born Yesterday;NR;COMEDY;George Cukor;12/26/1950;01/01/2013;103;Columbia Pictures;86;4780
+m/1002939-boston_strangler;The Boston Strangler;R;DRAMA;Richard Fleischer;10/16/1968;9/18/2012;116;20th Century Fox Film Corp.;78;58
+m/1002947-bounty;The Bounty;PG;ACTION & ADVENTURE;Roger Donaldson;05/04/1984;8/29/2016;132;MGM;72;10345
+m/1002993-boys_from_brazil;The Boys from Brazil;R;ACTION & ADVENTURE;Franklin J. Schaffner;10/05/1978;08/10/2016;123;20th Century Fox Film Corporation;66;7692
+m/1003017-brainstorm;Brainstorm;PG;SCIENCE FICTION & FANTASY;Douglas Trumbull;9/30/1983;6/22/2009;106;MGM Home Entertainment;56;6880
+m/1003060-breakout;Breakout;PG;ACTION & ADVENTURE;Tom Gries;;4/16/2012;96;Sony Pictures Entertainment;41;1949
+m/1003075-brewsters_millions;Brewster's Millions;PG;COMEDY;Walter Hill;5/22/1985;05/08/2015;97;MCA Universal Home Video;55;38516
+m/1003076-brians_song;Brian's Song;G;DRAMA;Buzz Kulik;05/01/1970;4/27/2013;74;Sony Pictures Home Entertainment;82;9103
+m/1003094-brief_encounter;Brief Encounter;NR;DRAMA;David Lean;11/26/1945;11/18/2016;86;Universal Pictures;91;11170
+m/1003119-broken_arrow;Broken Arrow;G;ACTION & ADVENTURE;Delmer Daves;7/21/1950;11/25/2015;93;Twentieth Century Fox Home Entertainment;70;1025
+m/1003120-broken_blossoms;Broken Blossoms;NR;DRAMA;D.W. Griffith;5/13/1919;08/11/2016;87;Kino on Video;71;3802
+m/1003136-brotherhood;The Brotherhood;PG-13;ACTION & ADVENTURE;Martin Ritt;01/01/1968;3/22/2016;98;Paramount Pictures;25;1013
+m/1003217-bug;Bug;PG;HORROR;Jeannot Szwarc;06/01/1975;06/06/2014;100;Paramount Pictures;25;2000
+m/1003276-burglar;Burglar;R;COMEDY;Hugh Wilson;3/20/1987;01/02/2009;102;Warner Home Video;39;6731
+m/1003296-bus_stop;Bus Stop;G;COMEDY;Joshua Logan;01/01/1956;11/05/2015;96;20th Century Fox Film Corporation;62;7934
+m/1003318-butch_cassidy_and_the_sundance_kid;Butch Cassidy and the Sundance Kid;PG;ACTION & ADVENTURE;George Roy Hill;10/24/1969;11/25/2015;110;20th Century Fox;92;71183
+m/1003339-bye_bye_birdie;Bye Bye Birdie;G;COMEDY;George Sidney;04/04/1963;4/16/2012;112;Columbia Pictures;66;10175
+m/1003399-calamity_jane;Calamity Jane;G;COMEDY;David Butler;11/04/1953;10/23/2012;101;WARNER BROTHERS PICTURES;87;20693
+m/1003436-camelot;Camelot;G;ACTION & ADVENTURE;Joshua Logan, Moss Hart;10/25/1967;4/19/2016;179;Warner Home Video;69;8354
+m/1003441-camille;Camille;NR;DRAMA;George Cukor;01/01/1936;10/11/2016;108;MGM Home Entertainment;83;4354
+m/1003492-cape_fear;Cape Fear;NR;DRAMA;J. Lee Thompson;4/18/1962;8/21/2015;105;Universal International Pictur;86;17735
+m/1003499-captain_blood;Captain Blood;NR;ACTION & ADVENTURE;Michael Curtiz;12/28/1935;01/01/2008;119;Twentieth Century Fox Home Entertainment;89;8194
+m/1003531-captains_courageous;Captains Courageous;PG;ACTION & ADVENTURE;Victor Fleming;6/25/1937;11/21/2016;117;MGM Home Entertainment;89;3811
+m/1003612-carnival_of_souls;Carnival of Souls;R;COMEDY;Herk Harvey;9/26/1962;10/13/2012;80;Herts-Lion International Corp.;73;9478
+m/1003617-carny;Carny;R;DRAMA;Robert Kaylor;6/13/1980;1/25/2017;107;United Artists;52;712
+m/1003625-carrie;Carrie;R;HORROR;Brian DePalma;11/16/1976;8/27/2015;98;United Artists;77;353052
+m/1003707-casablanca;Casablanca;PG;DRAMA;Michael Curtiz;11/26/1942;8/15/2008;102;Warner Bros. Pictures;95;357518
+m/1003722-casino_royale;Casino Royale;G;ACTION & ADVENTURE;Richard Talmadge, Kenneth Hughes, John Huston, Joseph McGrath, Robert Parrish, Val Guest, Ken Hughes;4/27/1967;03/08/2016;131;Columbia Pictures;34;33192
+m/1003747-cat_and_the_canary;The Cat and the Canary;NR;HORROR;Paul Leni;09/09/1927;02/08/2017;75;Universal Pictures;74;1155
+m/1003755-cat_on_a_hot_tin_roof;Cat on a Hot Tin Roof;PG;DRAMA;Richard Brooks;9/20/1958;;;MGM Home Entertainment;92;31748
+m/1003757-cat_people;Cat People;R;DRAMA;Jacques Tourneur;12/06/1942;11/17/2016;73;RKO Pictures;73;7786
+m/1003758-cat_people;Cat People;R;DRAMA;Paul Schrader;04/02/1982;09/11/2015;118;Universal Pictures;46;10352
+m/1003780-caught;Caught;NR;DRAMA;Max OphÃ¼ls;01/01/1949;07/08/2014;88;MGM;78;515
+m/1003854-champ;The Champ;PG;DRAMA;Franco Zeffirelli;3/20/1979;04/09/2016;122;MGM Home Entertainment;82;7711
+m/1003857-champion;Champion;NR;DRAMA;Mark Robson;01/01/1949;08/02/2013;99;United Artists;74;734
+m/1003883-charade;Charade;G;COMEDY;Stanley Donen;12/05/1963;05/08/2015;114;Madacy Entertainment;92;42886
+m/1003957-chase;The Chase;NR;DRAMA;Arthur Penn;2/17/1966;11/01/2012;135;Columbia Pictures;74;2775
+m/1003972-checking_out;Checking Out;R;COMEDY;David Leland;4/21/1989;5/22/2017;95;HandMade Films;18;129
+m/1004047-children_of_the_corn;Children of the Corn;R;HORROR;Fritz Kiersch;01/01/1984;11/01/2016;93;New World Pictures;40;84960
+m/1004110-chosen;The Chosen;PG;DRAMA;Jeremy Kagan;08/01/1981;10/20/2019;108;Westchester Films;79;895
+m/1004125-christmas_carol;A Christmas Carol;G;DRAMA;Edwin L. Marin;12/16/1938;12/19/2008;69;MGM;74;56572
+m/1004141-christmas_in_connecticut;Christmas in Connecticut;G;COMEDY;Peter Godfrey;01/01/1945;11/18/2016;101;Warner Bros. Pictures;75;3731
+m/1004151-christmas_story;A Christmas Story;PG;COMEDY;Bob Clark;11/18/1983;7/24/2014;93;MGM;88;285828
+m/1004177-cimarron;Cimarron;NR;DRAMA;Wesley Ruggles;1/26/1931;01/08/2017;131;MGM Home Entertainment;25;1514
+m/1004330-cleopatra;Cleopatra;G;DRAMA;Joseph L. Mankiewicz;06/12/1963;9/18/2012;243;20th Century Fox;69;20541
+m/1004463-college;College;NR;COMEDY;James W. Horne;09/10/1927;07/01/2016;65;United Artists;73;2356
+m/1004485-colors;Colors;R;ACTION & ADVENTURE;Dennis Hopper;4/15/1988;9/20/2015;120;Orion Home Video;72;28445
+m/1004502-coma;Coma;PG;ACTION & ADVENTURE;Michael Crichton;01/06/1978;11/27/2013;113;WARNER BROTHERS PICTURES;66;7692
+m/1004567-commando;Commando;R;ACTION & ADVENTURE;Mark L. Lester;10/04/1985;11/25/2015;90;20th Century Fox;67;138190
+m/1004703-convoy;Convoy;PG;ACTION & ADVENTURE;Sam Peckinpah;6/28/1978;11/30/2016;110;Lionsgate;73;9476
+m/1004790-countdown;Countdown;NR;ACTION & ADVENTURE;Robert Altman;02/01/1968;12/03/2013;101;Unknown;27;252
+m/1004798-country_girl;The Country Girl;NR;DRAMA;George Seaton;12/15/1954;08/03/2016;104;Paramount Pictures;77;3106
+m/1004832-cover_girl;Cover Girl;NR;COMEDY;Charles Vidor;3/30/1944;4/16/2012;107;Sony Pictures Home Entertainment;70;3774
+m/1004906-creature_from_the_black_lagoon;Creature from the Black Lagoon;G;HORROR;Jack Arnold;03/05/1954;09/11/2015;79;Universal Pictures;73;23626
+m/1004995-crossroads;Crossroads;R;DRAMA;Walter Hill;3/14/1986;4/16/2012;98;Sony Pictures Home Entertainment;82;10497
+m/1005090-cutting_class;Cutting Class;R;COMEDY;Rospo Pallenberg;07/01/1989;09/01/2019;90;FEARnet;22;3807
+m/1005152-damn_yankees;Damn Yankees;NR;COMEDY;George Abbott, Stanley Donen;9/26/1958;5/31/2019;110;Warner Home Video;69;2832
+m/1005194-dangerous;Dangerous;G;DRAMA;Alfred E. Green;01/01/1935;4/16/2012;78;MGM Home Entertainment;61;694
+m/1005199-dangerous_liaisons;Dangerous Liaisons;R;DRAMA;Stephen Frears;01/01/1988;05/01/2008;120;Warner Home Video;83;46589
+m/1005242-dark_mirror;The Dark Mirror;NR;DRAMA;Robert Siodmak;10/18/1946;03/10/2017;85;Universal;56;318
+m/1005279-darling;Darling;NR;COMEDY;John Schlesinger;01/01/1965;09/02/2014;128;Lionsgate;71;2184
+m/1005360-day_of_the_dead;Day of the Dead;R;HORROR;George A. Romero;07/03/1985;6/18/2016;102;United Film Distribution Compa;75;64544
+m/1005371-day_the_earth_stood_still;The Day the Earth Stood Still;G;DRAMA;Robert Wise;01/01/1951;9/18/2012;92;20th Century Fox;87;34260
+m/1005381-days_of_wine_and_roses;Days of Wine and Roses;NR;DRAMA;Blake Edwards;12/26/1962;11/27/2013;117;WARNER BROTHERS PICTURES;88;2553
+m/1005399-dead_heat;Dead Heat;R;ACTION & ADVENTURE;Mark Goldblatt;05/06/1988;08/10/2016;88;LionsGate Entertainment;49;6206
+m/1005412-dead_reckoning;Dead Reckoning;NR;DRAMA;John Cromwell;01/01/1947;4/16/2012;100;Sony Pictures Home Entertainment;66;2006
+m/1005512-death_in_venice;Death in Venice;PG;DRAMA;Luchino Visconti;03/01/1971;01/01/2008;130;WARNER BROTHERS PICTURES;81;6409
+m/1005521-death_of_a_salesman;Death of a Salesman;PG;DRAMA;Volker SchlÃ¶ndorff, V. SchlÃ¶ndorff;9/15/1985;11/15/2016;135;Anchor Bay Entertainment;75;4590
+m/1005656-demons;DÃ¨moni (Demons);R;HORROR;Lamberto Bava;10/04/1985;08/10/2016;90;Ascot Films;65;10395
+m/1005724-desperate_hours;The Desperate Hours;NR;DRAMA;William Wyler;01/01/1955;01/01/2017;112;Paramount Pictures;79;2792
+m/1005762-devil_doll;Devil Doll;NR;HORROR;Tod Browning;01/01/1964;10/21/2019;80;MGM Home Entertainment;28;536
+m/1005865-dillinger;Dillinger;R;ACTION & ADVENTURE;John Milius;7/20/1973;01/09/2017;107;American International Pictures;73;2526
+m/1005875-dinner_at_eight;Dinner at Eight;NR;COMEDY;George Cukor;8/23/1933;01/01/2009;113;WARNER BROTHERS PICTURES;74;2830
+m/1005967-distant_thunder;Distant Thunder;R;DRAMA;Rick Rosenthal;11/11/1988;08/10/2016;114;Paramount Home Video;45;345
+m/1006037-doctor_zhivago;Doctor Zhivago;PG-13;DRAMA;David Lean;12/22/1965;5/19/2016;197;MGM;88;45777
+m/1006042-dodge_city;Dodge City;NR;WESTERN;Michael Curtiz;04/08/1939;4/16/2012;104;WARNER BROTHERS PICTURES;74;2620
+m/1006068-dolls;Dolls;R;HORROR;Stuart Gordon;03/01/1987;11/30/2016;77;Empire Pictures;51;8252
+m/1006207-dr_jekyll_and_mr_hyde;Dr. Jekyll and Mr. Hyde;NR;DRAMA;Rouben Mamoulian;12/31/1931;1/30/2016;97;Paramount Pictures;80;5650
+m/1006223-how_the_grinch_stole_christmas;How the Grinch Stole Christmas;NR;COMEDY;Chuck Jones, Ben Washam;06/01/1967;9/24/2018;;Warner Home Video;98;93
+m/1006234-dracula;Dracula;NR;HORROR;Tod Browning;01/01/1931;02/12/2014;75;Universal Pictures;81;44775
+m/1006235-dracula;Dracula;R;HORROR;Dan Curtis;02/08/1973;7/23/2016;97;MPI Home Video;43;1284
+m/1006236-dracula;Dracula;R;DRAMA;John Badham;7/20/1979;02/12/2014;109;Universal Studios;58;9776
+m/1006250-dragnet;Dragnet;PG-13;ACTION & ADVENTURE;Tom Mankiewicz;;02/10/2016;106;MCA Universal Home Video;41;35175
+m/1006287-dream_team;The Dream Team;PG-13;COMEDY;Howard Zieff;04/07/1989;1/24/2016;113;MCA Universal Home Video;61;8275
+m/1006299-dressed_to_kill;Dressed to Kill;R;DRAMA;Brian DePalma;01/01/1980;11/01/2016;105;MGM;74;10587
+m/1006364-dune;Dune;PG-13;SCIENCE FICTION & FANTASY;David Lynch;12/14/1984;10/01/2014;137;MCA Universal Home Video;66;70912
+m/1006392-eagle_has_landed;The Eagle Has Landed;PG;ACTION & ADVENTURE;John Sturges;;03/07/2017;123;Columbia Pictures;67;7558
+m/1006416-east_of_eden;East of Eden;PG;DRAMA;Elia Kazan;04/10/1955;12/31/2007;115;Warner Bros. Pictures;90;23523
+m/1006425-easy_money;Easy Money;R;ACTION & ADVENTURE;James Signorelli;8/19/1983;11/01/2016;95;Vestron Video;58;5634
+m/1006438-eaten_alive;Eaten Alive;R;HORROR;Tobe Hooper;6/30/1977;1/25/2017;90;Virgo International;30;3386
+m/1006476-oedipus_rex;Edipo re (Oedipus Rex);NR;DRAMA;Pier Paolo Pasolini;09/07/1967;10/11/2016;110;Water Bearer Films;77;1873
+m/1006527-elephant_man;The Elephant Man;PG;DRAMA;David Lynch;10/03/1980;08/01/2013;125;Paramount;93;64544
+m/1006646-enforcer;The Enforcer;R;ACTION & ADVENTURE;James Fargo, Allen E. Smith;01/01/1976;5/23/2016;96;Warner Bros. Pictures;59;16007
+m/1006648-enforcer;The Enforcer;NR;DRAMA;Raoul Walsh, Bretaigne Windust;2/24/1951;3/23/2017;87;Republic Pictures Home Video;70;1293
+m/1006717-escape_from_new_york;Escape from New York;R;ACTION & ADVENTURE;John Carpenter;01/01/1981;5/23/2016;100;MGM Home Entertainment;77;72708
+m/1006872-exodus;Exodus;G;DRAMA;Otto Preminger;12/15/1960;01/04/2018;207;United Artists;69;4255
+m/1006917-eyewitness;Eyewitness;R;HORROR;Peter Yates;2/13/1981;03/01/2017;103;Twentieth Century Fox Home Entertainment;38;1863
+m/1007003-fahrenheit_451;Fahrenheit 451;NR;SCIENCE FICTION & FANTASY;FranÃ§ois Truffaut;11/02/1966;10/01/2014;112;Universal Pictures;72;25738
+m/1007070-fan;The Fan;R;DRAMA;Edward Bianchi;5/15/1981;4/19/2016;95;Paramount Home Video;32;1132
+m/1007073-fandango;Fandango;PG;COMEDY;Kevin Reynolds;1/25/1985;3/27/2016;91;Warner Home Video;78;5733
+m/1007105-far_from_the_madding_crowd;Far From the Madding Crowd;PG;DRAMA;John Schlesinger;10/18/1967;1/26/2014;169;MGM Home Entertainment;76;1081
+m/1007110-farewell_my_lovely;Farewell, My Lovely;R;DRAMA;Dick Richards, R.M. Richards;8/20/1975;08/01/2018;97;AVCO Embassy Pictures;73;1470
+m/1007141-fatal_attraction;Fatal Attraction;R;DRAMA;Adrian Lyne;09/11/1987;08/01/2013;119;Paramount Pictures;72;53027
+m/1007154-father_of_the_bride;Father of the Bride;G;COMEDY;Vincente Minnelli;01/01/1950;01/01/2009;93;MGM;74;13901
+m/1007350-fire_and_ice;Fire and Ice;PG;ACTION & ADVENTURE;Ralph Bakshi;8/26/1983;08/10/2016;81;Blue Underground;53;8565
+m/1007517-flash_gordon;Flash Gordon;PG;ACTION & ADVENTURE;Mike Hodges;12/05/1980;6/15/2012;110;Universal Pictures;69;46719
+m/1007522-flashback;Flashback;R;COMEDY;Franco Amurri;02/02/1990;08/10/2016;108;Paramount;60;5804
+m/1007538-flesh_and_blood;Flesh & Blood (Flesh+Blood) (The Rose and the Sword);R;ACTION & ADVENTURE;Paul Verhoeven;8/30/1985;11/15/2016;126;MGM;63;4358
+m/1007555-flight_of_the_phoenix;The Flight of the Phoenix;NR;ACTION & ADVENTURE;Robert Aldrich;12/15/1965;08/10/2016;147;20th Century Fox Film Corporation;81;9209
+m/1007573-flipper;Flipper;G;ACTION & ADVENTURE;James B. Clark;8/14/1963;01/01/2009;90;MGM Home Entertainment;49;26368
+m/1007600-fly;The Fly;NR;HORROR;Kurt Neumann;7/16/1958;11/25/2015;94;Fox;70;11153
+m/1007602-fly;The Fly;R;DRAMA;David Cronenberg;8/15/1986;11/25/2015;95;Fox;83;89948
+m/1007615-flying_tigers;Flying Tigers;NR;ACTION & ADVENTURE;David Miller;01/01/1942;11/24/2016;102;Republic;68;789
+m/1007657-footloose;Footloose;PG;DRAMA;Herbert Ross;2/17/1984;08/01/2013;107;Paramount Home Video;71;270317
+m/1007745-four_feathers;The Four Feathers;NR;ACTION & ADVENTURE;Zoltan Korda;08/03/1939;3/23/2017;115;Criterion Collection;85;2888
+m/1007832-frantic;Frantic;R;ACTION & ADVENTURE;Roman Polanski;2/26/1988;8/18/2008;120;Warner Home Video;64;22087
+m/1007839-freaky_friday;Freaky Friday;G;COMEDY;Gary Nelson;12/17/1976;12/13/2015;95;Disney;57;65759
+m/1007910-fright_night;Fright Night;R;HORROR;Tom Holland;01/01/1985;4/16/2012;106;Sony Pictures Home Entertainment;76;49729
+m/1007931-from_here_to_eternity;From Here to Eternity;G;DRAMA;Fred Zinnemann;08/05/1953;4/16/2012;118;NCM Fathom;84;14883
+m/1007962-fugitive;The Fugitive;NR;DRAMA;John Ford;11/03/1947;01/06/2017;104;RKO Pictures;61;579
+m/1007977-fun_with_dick_and_jane;Fun with Dick and Jane;PG;COMEDY;Ted Kotcheff;;4/16/2012;95;Sony Pictures Entertainment;51;5489
+m/1007990-funny_farm;Funny Farm;PG;COMEDY;George Roy Hill;06/03/1988;10/03/2008;103;Warner Home Video;50;25811
+m/1008015-fury;The Fury;R;DRAMA;Brian DePalma;01/01/1978;04/03/2016;118;Fox;49;5203
+m/1008055-galaxy_of_terror;Galaxy of Terror (Mindwarp: An Infinity of Terror) (Planet of Horrors) (Quest);R;ACTION & ADVENTURE;B.D. Clark, Bruce D. Clark;10/21/1981;05/03/2018;80;New World Pictures;29;1098
+m/1008074-gallipoli;Gallipoli;PG;DRAMA;Peter Weir;08/07/1981;08/01/2013;110;Paramount Home Video;83;23113
+m/1008080-gambler;The Gambler;R;DRAMA;Karel Reisz;01/01/1974;2/19/2016;109;Paramount Pictures;77;1242
+m/1008085-game_of_death;Game of Death;R;ACTION & ADVENTURE;Robert Clouse;03/01/1978;1/24/2017;102;Twentieth Century Fox Home Entertainment;64;32560
+m/1008166-general;The General;R;COMEDY;Clyde Bruckman, Buster Keaton;02/05/1927;09/01/2016;83;United Artists Films;92;11508
+m/1008243-getaway;The Getaway;R;ACTION & ADVENTURE;Sam Peckinpah;12/13/1972;02/01/2014;122;Warner Bros. Pictures;81;9710
+m/1008358-girls_girls_girls;Girls! Girls! Girls!;PG;COMEDY;Norman Taurog;11/21/1962;7/25/2015;106;Paramount Pictures;50;7958
+m/1008407-gloria;Gloria;PG;ACTION & ADVENTURE;John Cassavetes;10/01/1980;01/01/2012;121;Columbia Pictures Corporation;80;4691
+m/1008415-glory;Glory;R;DRAMA;Edward Zwick;12/15/1989;4/16/2012;122;TriStar;93;60231
+m/1008437-go_west;Go West;NR;COMEDY;Edward Buzzell;06/01/1940;8/25/2008;81;MGM Home Entertainment;59;2687
+m/1008588-gone_in_60_seconds;Gone in 60 Seconds;PG;ACTION & ADVENTURE;H.B. Halicki;7/28/1974;5/22/2017;105;H.B. Halicki Mercantile Co.;66;196417
+m/1008623-goodbye_girl;The Goodbye Girl;PG;COMEDY;Herbert Ross;11/30/1977;7/14/2016;110;MGM Home Entertainment;84;7479
+m/1008627-goodbye_mr_chips;Goodbye, Mr. Chips;NR;COMEDY;Sam Wood;7/28/1939;09/11/2015;114;MGM Home Entertainment;87;5661
+m/1008799-great_gatsby;The Great Gatsby;PG;DRAMA;Jack Clayton;3/29/1974;08/10/2016;144;Paramount Pictures;47;20775
+m/1008852-great_race;The Great Race;G;ACTION & ADVENTURE;Blake Edwards;07/01/1965;9/30/2016;150;Warner Home Video;83;8794
+m/1008931-green_berets;The Green Berets;G;ACTION & ADVENTURE;John Wayne, Ray Kellogg;6/19/1968;05/08/2015;141;Warner Home Video;61;9630
+m/1008968-grizzly;Grizzly;PG;HORROR;William Girdler;5/21/1976;11/18/2016;90;Film Ventures International (FVI);31;1789
+m/1008981-group;The Group;PG;DRAMA;Sidney Lumet;03/04/1966;4/18/2017;150;United Artists;58;261
+m/1009027-gullivers_travels;Gulliver's Travels;NR;ACTION & ADVENTURE;Dave Fleischer;12/22/1939;08/11/2016;74;Koch Vision;53;7274
+m/1009055-gunfighter;The Gunfighter;NR;ACTION & ADVENTURE;Henry King;6/23/1950;11/25/2015;84;Twentieth Century Fox;89;1308
+m/1009058-gung_ho;Gung Ho;PG-13;COMEDY;Ron Howard;3/14/1986;06/06/2014;111;Paramount Home Video;46;7129
+m/1009096-hairspray;Hairspray;PG;COMEDY;John Waters;2/26/1988;12/01/2008;90;New Line Home Entertainment;80;64156
+m/1009113-halloween;Halloween;R;HORROR;John Carpenter;10/25/1978;3/18/2017;91;Compass International Pictures;89;303224
+m/1009123-hamlet;Hamlet;NR;DRAMA;Laurence Olivier;05/04/1948;3/23/2017;153;Universal;80;7542
+m/1009131-hand;The Hand;R;DRAMA;Oliver Stone;4/24/1981;6/16/2012;104;Warner Home Video;28;1904
+m/1009211-hard_times;Hard Times;PG;ACTION & ADVENTURE;Walter Hill;;5/14/2014;92;Sony Pictures Home Entertainment;81;4116
+m/1009219-hardcore;Hardcore;R;DRAMA;Paul Schrader;01/01/1979;5/14/2014;108;Sony Pictures Entertainment;67;2414
+m/1009224-harder_they_fall;The Harder They Fall;NR;DRAMA;Mark Robson;01/01/1956;4/16/2012;109;Sony Pictures Entertainment;80;2130
+m/1009277-haunting;The Haunting;G;HORROR;Robert Wise;9/18/1963;01/01/2009;112;Paramount Pictures;82;19339
+m/1009293-hawaii;Hawaii;NR;ACTION & ADVENTURE;George Roy Hill;10/10/1966;5/21/2017;181;United Artists;53;1541
+m/1009399-heat;Heat;R;ACTION & ADVENTURE;R.M. Richards;11/12/1986;08/10/2016;102;Paramount Pictures;26;163
+m/1009427-heaven_can_wait;Heaven Can Wait;PG;COMEDY;Warren Beatty, Buck Henry;6/28/1978;01/01/2017;101;Paramount Home Video;68;13232
+m/1009437-heidi;Heidi;G;ACTION & ADVENTURE;Allan Dwan;10/15/1937;11/25/2015;88;Twentieth Century Fox Home Entertainment;74;18184
+m/1009583-hidden_fortress;The Hidden Fortress (kakushi-toride No San-akunin);NR;ACTION & ADVENTURE;Akira Kurosawa;01/01/1958;01/07/2017;139;Media Home Entertainment;93;17494
+m/1009645-hills_have_eyes;The Hills Have Eyes;R;HORROR;Wes Craven;7/22/1977;10/11/2016;83;Laser Media;54;51983
+m/1009649-hindenburg;The Hindenburg;PG;ACTION & ADVENTURE;Robert Wise, John A. Bolger, Jr.;01/01/1975;5/19/2016;125;Universal Pictures;37;2249
+m/1009691-hit;The Hit;R;ACTION & ADVENTURE;Stephen Frears;09/12/1984;4/28/2009;98;Central Productions;75;2196
+m/1009736-hole_in_the_head;A Hole in the Head;NR;COMEDY;Frank Capra;7/15/1959;11/18/2016;120;MGM;49;2232
+m/1009972-hot_pursuit;Hot Pursuit;PG-13;COMEDY;Steven Lisberger;05/08/1987;09/06/2016;92;Paramount Pictures;43;3888
+m/100_bloody_acres_2013;100 Bloody Acres;NR;COMEDY;Colin Cairnes, Cameron Cairnes;6/28/2013;08/10/2016;91;Doppelganger Releasing;47;1642
+m/100_girls;100 Girls;R;COMEDY;Michael Davis;09/01/2000;10/22/2016;95;Dream Entertainment;50;39832
+m/100_streets;100 Streets;NR;DRAMA;Jim O'Hanlon;1/13/2017;04/04/2017;93;Green Door Pictures;36;1547
+m/1010002-hound_of_the_baskervilles;The Hound of the Baskervilles;NR;DRAMA;Sidney Lanfield;3/31/1939;04/03/2017;80;20th Century Fox;83;6267
+m/1010012-house;House (Ding Dong, You're Dead);R;COMEDY;Steve Miner;2/28/1986;1/14/2015;92;New World Video;46;12925
+m/1010030-house_of_wax;House of Wax;PG;DRAMA;AndrÃ© De Toth;04/10/1953;4/19/2016;88;Warner Bros. Pictures;72;41371
+m/1010034-house_on_haunted_hill;House On Haunted Hill;PG;DRAMA;William Castle;2/17/1959;05/01/2008;75;Allied Artists;73;22826
+m/1010174-hud;Hud;NR;DRAMA;Martin Ritt;5/29/1963;08/10/2016;112;Paramount Pictures;89;8429
+m/1010202-human_factor;The Human Factor;R;DRAMA;Otto Preminger;12/18/1979;4/16/2012;115;United Artists;23;103
+m/1010214-hunchback_of_notre_dame;The Hunchback of Notre Dame;PG;DRAMA;Wallace Worsley, Wallace Worsley Sr.;09/02/1923;08/07/2015;93;Gravitas;76;2958
+m/1010215-hunchback_of_notre_dame;The Hunchback of Notre Dame;NR;DRAMA;William Dieterle;;01/01/2009;116;Sony Pictures Entertainment;87;7622
+m/1010230-hunter;The Hunter;PG;ACTION & ADVENTURE;Buzz Kulik;10/01/1980;08/10/2016;97;Paramount Home Video;49;3325
+m/1010249-hustle;Hustle;R;ACTION & ADVENTURE;Robert Aldrich;12/25/1975;08/10/2016;120;Paramount Pictures;48;1297
+m/1010263-i_the_jury;I, the Jury;R;ACTION & ADVENTURE;Richard T. Heffron;4/22/1982;11/25/2015;110;Fox;39;358
+m/1010417-imitation_of_life;Imitation of Life;NR;DRAMA;Douglas Sirk;4/30/1959;3/18/2014;125;Universal Studios;91;9590
+m/1010431-importance_of_being_earnest;The Importance of Being Earnest;PG;COMEDY;Anthony Asquith;;2/18/2017;95;General Film Distributors;83;3379
+m/1010440-impulse;Impulse;R;ACTION & ADVENTURE;Sondra Locke;04/06/1990;12/03/2014;108;Warner Home Video;21;77
+m/1010448-in_cold_blood;In Cold Blood;R;DRAMA;Richard Brooks;12/14/1967;4/16/2012;134;Columbia Pictures;88;8635
+m/1010526-incubus;The Incubus;R;HORROR;John Hough;09/03/1982;11/18/2016;92;Film Ventures International;22;1278
+m/1010540-indiscreet;Indiscreet;PG;COMEDY;Stanley Donen;5/20/1958;11/19/2015;100;Warner Bros.;69;5977
+m/1010553-informer;The Informer;NR;DRAMA;John Ford;05/01/1935;05/07/2015;91;Media Home Entertainment;77;1081
+m/1010555-inherit_the_wind;Inherit the Wind;PG;DRAMA;Stanley Kramer;11/01/1960;12/17/2016;127;MGM Home Entertainment;91;9642
+m/1010672-invaders_from_mars;Invaders from Mars;NR;SCIENCE FICTION & FANTASY;William Cameron Menzies;4/22/1953;08/08/2017;73;20th Century Fox Film Corporation;56;2765
+m/1010673-invaders_from_mars;Invaders From Mars;PG;HORROR;Tobe Hooper;06/06/1986;05/04/2017;98;Media Home Entertainment;33;3514
+m/1010678-invasion_of_the_body_snatchers;Invasion of the Body Snatchers;PG;SCIENCE FICTION & FANTASY;Don Siegel;01/01/1956;10/01/2016;80;Republic Pictures Home Video;85;19182
+m/1010679-invasion_of_the_body_snatchers;Invasion of the Body Snatchers;PG;HORROR;Philip Kaufman;12/22/1978;1/27/2017;115;MGM Home Entertainment;81;35411
+m/1010695-invisible_man;The Invisible Man;NR;COMEDY;James Whale;11/13/1933;4/19/2016;71;Realart Pictures Inc.;85;11170
+m/1010745-island;The Island;R;DRAMA;Michael Ritchie;6/13/1980;4/19/2016;114;Universal Pictures;51;7403
+m/1010752-island_of_dr_moreau;The Island of Dr. Moreau;PG;ACTION & ADVENTURE;Don Taylor;7/13/1977;11/30/2016;98;MGM;40;2513
+m/1010762-islands_in_the_stream;Islands in the Stream;PG;DRAMA;Franklin J. Schaffner;03/09/1977;08/10/2016;105;Paramount Pictures;63;127
+m/1010770-it;It;NR;COMEDY;Clarence Badger, Josef von Sternberg, Clarence G. Badger;2/15/1927;05/01/2017;72;Critics' Choice Video;81;4773
+m/1010793-its_alive;It's Alive;R;DRAMA;Larry Cohen;12/31/1973;4/19/2016;90;Warner Home Video;40;6171
+m/1010824-ivanhoe;Ivanhoe;G;ACTION & ADVENTURE;Richard Thorpe;7/31/1952;12/03/2013;106;MGM Home Entertainment;64;5038
+m/1010837-jack_and_the_beanstalk;Jack and the Beanstalk;G;COMEDY;Jean Yarbrough;04/12/1952;11/07/2014;78;VCI;38;437
+m/1010889-jamaica_inn;Jamaica Inn;NR;ACTION & ADVENTURE;Alfred Hitchcock;10/13/1939;12/09/2016;99;Paramount Pictures;36;4025
+m/1010939-jason_and_the_argonauts;Jason and the Argonauts;G;ACTION & ADVENTURE;Don Chaffey;6/19/1963;4/16/2012;104;Columbia Pictures;79;22745
+m/1010978-jazz_singer;The Jazz Singer;NR;DRAMA;Alan Crosland;10/06/1927;01/01/2009;97;Warner Bros.;56;4506
+m/1010979-jazz_singer;The Jazz Singer;PG;DRAMA;Richard Fleischer;12/19/1980;10/06/2016;115;LionsGate Entertainment;70;4953
+m/1011028-jesus_christ_superstar;Jesus Christ Superstar;G;DRAMA;Norman Jewison;8/15/1973;4/19/2016;107;Universal Studios;76;36376
+m/1011176-johnny_belinda;Johnny Belinda;NR;DRAMA;Jean Negulesco;9/14/1948;11/21/2016;102;Warner Bros. Pictures;88;1429
+m/1011295-judex;Judex;NR;ACTION & ADVENTURE;Georges Franju;12/04/1963;09/09/2016;95;CFFP;82;390
+m/1011328-julius_caesar;Julius Caesar;NR;DRAMA;Joseph L. Mankiewicz;06/03/1953;01/01/2008;121;MGM Home Entertainment;81;5248
+m/1011329-julius_caesar;Julius Caesar;G;ACTION & ADVENTURE;Stuart Burge;01/01/1970;11/06/2018;117;VCI;35;2698
+m/1011338-jungle_book;Jungle Book;G;ACTION & ADVENTURE;Zoltan Korda;01/01/1942;8/19/2014;109;Gravitas;56;897
+m/1011392-kansas;Kansas;R;ACTION & ADVENTURE;David Stevens;01/01/1988;02/07/2017;110;Media Home Entertainment;19;1402
+m/1011487-kickboxer;Kickboxer;R;ACTION & ADVENTURE;David Worth, Mark DiSalle;09/08/1989;01/04/2017;105;HBO Video;65;51359
+m/1011495-kid_galahad;Kid Galahad;G;DRAMA;Phil Karlson;01/01/1962;12/06/2005;95;MGM Home Entertainment;57;5126
+m/1011558-killer_elite;The Killer Elite;PG;ACTION & ADVENTURE;Sam Peckinpah;12/17/1975;04/12/2017;122;MGM Home Entertainment;34;2003
+m/1011605-king_and_i;The King and I;G;ROMANCE;Walter Lang;6/29/1956;11/25/2015;133;20th Century Fox;83;61003
+m/1011615-king_kong;King Kong;G;ACTION & ADVENTURE;Ernest B. Schoedsack, Merian C. Cooper;01/01/1933;11/28/2008;100;RKO Pictures;86;90136
+m/1011617-king_kong;King Kong;PG;ACTION & ADVENTURE;John Guillermin;12/17/1976;01/02/2017;134;Paramount Pictures;31;57614
+m/1011623-king_of_comedy;The King of Comedy;PG;COMEDY;Martin Scorsese;01/01/1983;12/09/2015;101;Fox;90;27041
+m/1011626-king_of_kings;King of Kings;PG-13;DRAMA;Nicholas Ray;10/30/1961;11/01/2008;160;MGM Home Entertainment;77;4345
+m/1011638-king_solomons_mines;King Solomon's Mines;G;ACTION & ADVENTURE;Compton Bennett, Andrew Marton;11/24/1950;4/16/2012;102;MGM Home Entertainment;59;3242
+m/1011818-ladykillers;The Ladykillers;NR;COMEDY;Alexander Mackendrick;12/08/1955;10/06/2016;90;Ealing Studios;87;10533
+m/1012164-legend;Legend;PG;DRAMA;Ridley Scott;4/18/1985;12/03/2015;89;Universal Pictures;73;101568
+m/1012225-les_miserables;Les Miserables;NR;DRAMA;Richard Boleslawski;4/20/1935;9/18/2012;108;20th Century Fox Film Corporation;85;3463
+m/1012264-letter;The Letter;PG;DRAMA;William Wyler;11/23/1940;03/12/2017;95;MGM Home Entertainment;82;3725
+m/1012370-lilies_of_the_field;Lilies of the Field;NR;COMEDY;Ralph Nelson;01/01/1963;02/02/2017;94;Twentieth Century Fox Home Entertainment;86;6139
+m/1012386-lion_in_winter;The Lion in Winter;PG;DRAMA;Anthony Harvey;10/30/1968;08/09/2016;132;Nelson Entertainment;90;13105
+m/1012439-little_lord_fauntleroy;Little Lord Fauntleroy;NR;DRAMA;John Cromwell;04/02/1936;10/18/2016;98;United Artists;73;1541
+m/1012478-little_princess;The Little Princess;G;COMEDY;William A. Seiter, Walter Lang;03/10/1939;07/02/2016;91;Slingshot Entertainment;81;15278
+m/1012506-little_romance;A Little Romance;PG;COMEDY;George Roy Hill;4/27/1979;01/07/2003;108;WARNER BROTHERS PICTURES;85;5213
+m/1012514-little_shop_of_horrors;The Little Shop of Horrors;R;COMEDY;Roger Corman;9/14/1960;10/13/2012;70;The Filmgroup Inc.;55;54898
+m/1012515-little_shop_of_horrors;Little Shop of Horrors;PG-13;COMEDY;Frank Oz;12/19/1986;8/15/2008;93;Warner Bros. Pictures;79;181640
+m/1012524-little_women;Little Women;NR;DRAMA;George Cukor;11/16/1933;01/01/2008;116;WARNER BROTHERS PICTURES;78;9776
+m/1012525-little_women;Little Women;G;DRAMA;Mervyn LeRoy;03/10/1949;01/01/2008;121;Metro-Goldwyn-Mayer (MGM);83;9808
+m/1012605-lock_up;Lock Up;R;ACTION & ADVENTURE;John Flynn, John J. Flynn Jr.;08/04/1989;8/26/2016;103;Live Home Video;50;15515
+m/1012611-lolita;Lolita;NR;COMEDY;Stanley Kubrick;6/13/1962;12/31/2008;152;MGM;84;46005
+m/1012647-long_days_journey_into_night;Long Day's Journey Into Night;NR;DRAMA;Sidney Lumet;01/01/1962;11/06/2018;174;Republic Pictures Home Video;86;3067
+m/1012662-long_hot_summer;The Long, Hot Summer;NR;DRAMA;Martin Ritt;01/01/1958;10/28/2015;115;20th Century Fox;82;6137
+m/1012665-longest_yard;The Longest Yard;R;ACTION & ADVENTURE;Robert Aldrich;8/30/1974;06/06/2014;121;Paramount Home Video;75;81341
+m/1012672-look_back_in_anger;Look Back in Anger;NR;DRAMA;Tony Richardson;01/01/1958;8/28/2017;99;MGM Home Entertainment;76;1295
+m/1012772-lost_patrol;The Lost Patrol;NR;ACTION & ADVENTURE;John Ford;2/16/1934;11/21/2016;74;Media Home Entertainment;65;439
+m/1012813-love_bug;The Love Bug;G;ACTION & ADVENTURE;Robert Stevenson;3/13/1969;07/01/2016;107;Disney;66;39845
+m/1012871-lovesick;Lovesick;PG;COMEDY;Marshall Brickman;2/18/1983;01/01/2009;95;Warner Home Video;29;802
+m/1012920-lust_for_life;Lust for Life;PG;DRAMA;Vincente Minnelli;01/01/1956;05/01/2008;122;MGM;81;3271
+m/1012928-m;M;NR;DRAMA;Fritz Lang;8/31/1931;08/10/2016;99;Foremco;95;36181
+m/1012993-madame_x;Madame X;NR;DRAMA;David Lowell Rich;4/27/1966;8/30/2016;99;Universal;80;681
+m/1013004-made_in_heaven;Made in Heaven;PG;COMEDY;Alan Rudolph;;6/28/2016;102;Lorimar Home Video;83;3887
+m/1013035-magic_flute;The Magic Flute (TrollflÃ¶jten);G;COMEDY;Ingmar Bergman;11/11/1975;11/20/2018;134;Sveriges Radio;85;4554
+m/1013071-magnificent_ambersons;The Magnificent Ambersons;NR;DRAMA;Orson Welles;07/10/1942;07/01/2014;88;RKO Radio Pictures;85;6468
+m/1013077-magnificent_seven;The Magnificent Seven;R;ACTION & ADVENTURE;John Sturges;01/01/1960;9/24/2015;126;MGM Home Entertainment;87;54026
+m/1013089-main_event;The Main Event;PG;COMEDY;Howard Zieff;6/22/1979;11/07/2008;112;WARNER BROTHERS PICTURES;42;2366
+m/1013139-maltese_falcon;The Maltese Falcon;PG;DRAMA;John Huston;10/18/1941;5/19/2016;100;Warner Bros.;91;57852
+m/1013162-man_for_all_seasons;A Man for All Seasons;G;DRAMA;Fred Zinnemann;12/12/1966;4/16/2012;120;Sony Pictures Home Entertainment;87;9774
+m/1013227-manchurian_candidate;The Manchurian Candidate;PG-13;DRAMA;John Frankenheimer;10/24/1962;11/30/2016;126;MGM/UA Classics;90;31367
+m/1013238-manhattan_project;The Manhattan Project;PG-13;ACTION & ADVENTURE;Marshall Brickman;6/13/1986;11/30/2016;117;HBO Video;46;5189
+m/1013248-manhunter;Manhunter;R;ACTION & ADVENTURE;Michael Mann;8/15/1986;4/19/2016;119;Anchor Bay Entertainment;77;53295
+m/1013259-mannequin;Mannequin;PG;COMEDY;Michael Gottlieb;2/13/1987;12/16/2016;89;20th Century Fox Film Corporat;55;44732
+m/1013380-mark_of_zorro;The Mark of Zorro;NR;ACTION & ADVENTURE;Fred Niblo;12/05/1920;04/02/2017;90;United Artists;71;4985
+m/1013427-marty;Marty;NR;DRAMA;Delbert Mann;04/11/1955;1/19/2017;91;MGM Home Entertainment;87;6757
+m/1013488-masquerade;Masquerade;R;HORROR;Bob Swaim;03/11/1988;11/30/2016;90;MGM;50;1535
+m/1013632-mechanic;The Mechanic;R;ACTION & ADVENTURE;Michael Winner;01/01/1972;01/12/2017;100;United Artists;66;4721
+m/1013711-men;The Men;NR;DRAMA;Fred Zinnemann;7/20/1950;02/03/2020;86;Columbia Pictures;74;1456
+m/1013772-meteor;Meteor;PG;ACTION & ADVENTURE;Ronald Neame;10/19/1979;4/29/2017;107;American International Pictures;12;937
+m/1013775-metropolis;Metropolis;PG-13;ACTION & ADVENTURE;Fritz Lang;3/13/1927;12/21/2016;123;Paramount Pictures;92;62873
+m/1013867-midsummer_nights_dream;A Midsummer Night's Dream;NR;COMEDY;William Dieterle, Max Reinhardt;10/09/1935;01/01/2009;132;Warner Bros.;62;1229
+m/1013884-mighty_joe_young;Mighty Joe Young;PG;ACTION & ADVENTURE;Ernest B. Schoedsack;01/01/1949;5/23/2016;94;RKO Radio Pictures Inc.;63;7776
+m/1013973-miracle_worker;The Miracle Worker;NR;DRAMA;Arthur Penn;7/28/1962;12/02/2016;106;MGM Home Entertainment;88;8840
+m/1014008-missing_in_action;Missing in Action;R;ACTION & ADVENTURE;Joseph Zito;01/01/1984;4/28/2017;102;MGM Home Entertainment;42;12330
+m/1014027-mission;The Mission;PG;DRAMA;Roland JoffÃ©;10/31/1986;4/16/2012;128;Warner Home Video;87;38896
+m/1014061-mister_roberts;Mister Roberts;NR;COMEDY;John Ford, Mervyn LeRoy;7/30/1955;4/16/2012;123;Warner Home Video;84;6728
+m/1014090-moby_dick;Moby Dick;G;ACTION & ADVENTURE;John Huston;6/27/1956;4/13/2017;116;MGM;73;8333
+m/1014137-monkey_business;Monkey Business;NR;COMEDY;Norman McLeod, Norman Z. McLeod;9/19/1931;02/11/2017;78;MCA Universal Home Video;84;7678
+m/1014138-monkey_business;Monkey Business;PG;COMEDY;Howard Hawks;09/05/1952;11/25/2015;97;Twentieth Century Fox Home Entertainment;68;8745
+m/1014217-moonraker;Moonraker;PG;ACTION & ADVENTURE;Lewis Gilbert;6/29/1979;10/01/2016;126;United Artists;43;58078
+m/1014246-morning_glory;Morning Glory;NR;DRAMA;Lowell Sherman;8/18/1933;01/01/2009;74;Media Home Entertainment;45;836
+m/1014294-moulin_rouge;Moulin Rouge;NR;DRAMA;John Huston;12/23/1952;4/13/2017;123;United Artists;90;68249
+m/1014325-mr_and_mrs_smith;Mr. & Mrs. Smith;NR;COMEDY;Alfred Hitchcock;1/31/1941;8/15/2008;95;RKO Radio Pictures;48;4837
+m/1014352-mrs_soffel;Mrs. Soffel;PG-13;DRAMA;Gillian Armstrong;12/26/1984;4/16/2012;112;MGM Home Entertainment;45;3305
+m/1014370-mummy;The Mummy;NR;HORROR;Karl W. Freund;12/22/1932;4/19/2016;72;Universal Pictures;72;12317
+m/1014372-mummy;The Mummy;G;HORROR;Terence Fisher;01/01/1959;01/01/2009;88;WARNER BROTHERS PICTURES;64;7715
+m/1014396-murder;Murder!;NR;DRAMA;Alfred Hitchcock;01/01/1930;09/10/2015;92;LionsGate Entertainment;39;1461
+m/1014453-music_man;The Music Man;G;ROMANCE;Morton DaCosta;6/19/1962;4/19/2016;151;Warner Bros. Pictures;85;30549
+m/1014481-mutiny_on_the_bounty;Mutiny on the Bounty;NR;ACTION & ADVENTURE;Frank Lloyd;11/08/1935;03/07/2017;132;MGM;83;8061
+m/1014482-mutiny_on_the_bounty;Mutiny on the Bounty;NR;ACTION & ADVENTURE;Lewis Milestone, Carol Reed;11/08/1962;10/20/2016;179;WARNER BROTHERS PICTURES;73;4471
+m/1014536-my_man_godfrey;My Man Godfrey;G;COMEDY;Gregory La Cava;09/06/1936;02/12/2014;95;Universal Pictures;90;7647
+m/1014592-mysterious_island;Mysterious Island;PG;ACTION & ADVENTURE;Cyril Endfield, Cy Endfield;08/01/1961;4/16/2012;101;Columbia Pictures;63;3246
+m/1014793-near_dark;Near Dark;R;HORROR;Kathryn Bigelow;10/02/1987;03/07/2006;95;Lions Gate Films;74;24791
+m/1014804-neighbors;Neighbors;R;COMEDY;John G. Avildsen;12/18/1981;01/01/2014;94;Sony Pictures Entertainment;49;5922
+m/1014946-next_of_kin;Next of Kin;R;ACTION & ADVENTURE;John Irvin;10/20/1989;01/01/2009;108;Warner Home Video;45;9637
+m/1014986-nicholas_and_alexandra;Nicholas and Alexandra;PG;DRAMA;Franklin J. Schaffner;12/13/1971;01/02/2014;183;Sony Pictures Home Entertainment;78;1674
+m/1015000-night_and_day;Night and Day;NR;DRAMA;Michael Curtiz;08/03/1946;1/25/2017;128;Warner Bros. Pictures;42;2308
+m/1015002-night_at_the_opera;A Night at the Opera;NR;COMEDY;Sam Wood;11/08/1935;01/01/2009;93;MGM;91;20268
+m/1015052-night_of_the_living_dead;Night of the Living Dead;NR;HORROR;George A. Romero;10/01/1968;10/13/2012;96;Continental Distributing Inc.;87;130598
+m/1015079-night_to_remember;A Night to Remember;NR;ACTION & ADVENTURE;Roy Ward Baker;07/01/1958;3/23/2017;123;Criterion Collection;90;10443
+m/1015095-nighthawks;Nighthawks;R;ACTION & ADVENTURE;Bruce Malmuth;04/04/1981;5/23/2016;99;MCA Universal Home Video;54;7370
+m/1015196-no_mans_land;No Man's Land;R;ACTION & ADVENTURE;Peter Werner;10/23/1987;11/05/2016;106;Orion Home Video;63;3162
+m/1015199-no_mercy;No Mercy;R;ACTION & ADVENTURE;Richard Pearce;12/19/1986;01/01/2012;107;Sony Pictures Home Entertainment;28;3861
+m/1015218-no_way_out;No Way Out;R;ACTION & ADVENTURE;Roger Donaldson;8/14/1987;11/30/2016;113;HBO Video;72;20766
+m/1015348-nutty_professor;The Nutty Professor;NR;COMEDY;Jerry Lewis;06/04/1963;08/01/2013;107;Paramount Pictures;67;32971
+m/1015361-obsession;Obsession;PG;DRAMA;Brian DePalma;08/01/1976;4/16/2012;98;Sony Pictures Home Entertainment;59;2967
+m/1015380-odd_couple;The Odd Couple;PG;COMEDY;Gene Saks;01/01/1968;08/01/2013;105;Paramount Home Video;89;31400
+m/1015383-odd_man_out;Odd Man Out;NR;DRAMA;Carol Reed;4/23/1947;5/23/2017;115;Universal Pictures;86;1969
+m/1015389-odessa_file;The Odessa File;PG;ACTION & ADVENTURE;Ronald Neame;10/18/1974;07/01/2013;128;Sony Pictures Home Entertainment;64;3201
+m/1015517-omen;The Omen;R;HORROR;Richard Donner;6/25/1976;03/01/2017;111;20th Century Fox;80;125984
+m/1015530-on_the_beach;On the Beach;NR;DRAMA;Stanley Kramer;12/17/1959;2/29/2000;133;United Artists;69;4368
+m/1015542-on_the_town;On the Town;NR;COMEDY;Stanley Donen, Gene Kelly;12/30/1949;11/27/2013;98;MGM;83;13165
+m/1015639-only_when_i_laugh;Only When I Laugh;R;COMEDY;Glenn Jordan, Vernon Lawrence;9/25/1981;4/16/2012;120;Sony Pictures Entertainment;42;714
+m/1015737-our_town;Our Town;NR;DRAMA;Sam Wood;5/24/1940;08/11/2016;90;United Artists;46;1291
+m/1015753-out_of_the_dark;Out of the Dark;R;COMEDY;Michael Schroeder;03/11/1989;7/30/2013;90;Sony Pictures Home Entertainment;29;252
+m/1015758-outoftowners;The Out-of-Towners;PG-13;COMEDY;Arthur Hiller;5/28/1970;05/09/2016;97;Paramount Pictures;69;4333
+m/1015944-parent_trap;The Parent Trap;G;COMEDY;David Swift;6/21/1961;02/07/2016;124;Buena Vista Distribution Company;75;174643
+m/1015967-party;The Party;PG;COMEDY;Blake Edwards;04/04/1968;9/30/2016;99;United Artists;88;28430
+m/1016119-pennies_from_heaven;Pennies From Heaven;R;DRAMA;Herbert Ross;12/11/1981;11/21/2016;107;Warner Home Video;65;3701
+m/1016213-peter_pan;Peter Pan;G;SCIENCE FICTION & FANTASY;Wilfred Jackson, Clyde Geronimi, Hamilton Luske;02/05/1953;6/29/2018;76;Walt Disney;80;277986
+m/1016239-phantom_of_the_opera;The Phantom of the Opera;R;HORROR;Dwight H. Little, Dwight Little;06/01/1989;08/10/2016;90;RCA/Columbia;53;49310
+m/1016240-phantom_of_the_opera;Phantom Of The Opera;NR;DRAMA;Lon Chaney Jr, Rupert Julian, Edward Sedgwick;11/15/1925;11/10/2016;84;Universal Pictures;84;17462
+m/1016302-picture_of_dorian_gray;The Picture of Dorian Gray;NR;DRAMA;Albert Lewin;01/01/1945;11/21/2016;110;WARNER BROTHERS PICTURES;76;5766
+m/1016338-pink_panther;The Pink Panther;NR;COMEDY;Blake Edwards;3/20/1963;10/01/2016;113;United Artists;78;57498
+m/1016359-piranha;Piranha;R;COMEDY;Joe Dante;08/03/1978;05/03/2018;92;The Weinstein Company/Dimension Films;41;12096
+m/1016365-pirates_of_penzance;The Pirates of Penzance;G;ACTION & ADVENTURE;Wilford Leach;2/18/1983;09/11/2015;112;Universal Studios;83;8477
+m/1016369-pit_and_the_pendulum;Pit and the Pendulum (The Pit and the Pendulum);NR;HORROR;Roger Corman;08/12/1961;11/18/2016;80;American International Pictures (AIP);74;8671
+m/1016397-planet_of_the_apes;Planet of the Apes;G;SCIENCE FICTION & FANTASY;Franklin J. Schaffner;04/03/1968;11/25/2015;112;20th Century Fox;87;119051
+m/1016479-point_blank;Point Blank;R;ACTION & ADVENTURE;John Boorman;8/30/1967;11/21/2016;92;MGM Home Entertainment;84;7614
+m/1016512-pollyanna;Pollyanna;G;DRAMA;David Swift;5/19/1960;2/28/2016;134;Walt Disney Productions;79;20895
+m/1016513-poltergeist;Poltergeist;PG;HORROR;Tobe Hooper;06/04/1982;04/01/2009;114;MGM Home Entertainment;79;182371
+m/1016534-popeye;Popeye;PG;ACTION & ADVENTURE;Robert Altman;12/12/1980;08/01/2013;114;Paramount Pictures;39;56157
+m/1016584-poseidon_adventure;The Poseidon Adventure;PG;ACTION & ADVENTURE;Ronald Neame, Irwin Allen;12/12/1972;04/03/2016;117;20th Century Fox;75;47395
+m/1016586-posse;Posse;PG;ACTION & ADVENTURE;Kirk Douglas;8/22/1975;08/01/2013;94;Paramount Pictures;52;352
+m/1016591-postman_always_rings_twice;The Postman Always Rings Twice;R;DRAMA;Tay Garnett;05/02/1946;10/02/2016;113;MGM;79;7651
+m/1016592-postman_always_rings_twice;The Postman Always Rings Twice;PG;DRAMA;Bob Rafelson;3/20/1981;4/19/2016;123;Warner Home Video;59;9878
+m/1016609-power;Power;R;DRAMA;Sidney Lumet;1/31/1986;01/01/2009;111;Lorimar Home Video;45;2110
+m/1016698-pride_and_prejudice;Pride and Prejudice;NR;COMEDY;Robert Z. Leonard;7/26/1940;10/10/2008;118;WARNER BROTHERS PICTURES;77;9213
+m/1016724-prince_and_the_pauper;The Prince and the Pauper;PG;ACTION & ADVENTURE;William Keighley;05/08/1937;4/16/2012;120;WARNER BROTHERS PICTURES;63;3025
+m/1016756-prisoner_of_zenda;The Prisoner of Zenda;NR;ACTION & ADVENTURE;John Cromwell, George Cukor, W.S. Van Dyke;09/03/1937;10/08/2016;101;United Artists;80;716
+m/1016760-prisoner;The Prisoner;NR;DRAMA;Peter Glenville;12/11/1955;4/16/2012;94;Sony Pictures Entertainment;71;498
+m/1016819-producers;The Producers;PG;COMEDY;Mel Brooks;06/01/1968;08/10/2016;88;AVCO Embassy Pictures;85;56109
+m/1016832-project_x;Project X;PG;ACTION & ADVENTURE;Jonathan Kaplan;4/17/1987;11/30/2016;108;Anchor Bay Entertainment;55;8770
+m/1016834-prom_night;Prom Night;R;HORROR;Paul Lynch;8/15/1980;5/31/2017;91;AVCO Embassy Pictures;35;20131
+m/1016837-promised_land;Promised Land;R;DRAMA;Gus Van Sant;01/04/2013;5/23/2016;106;Focus Features;46;20366
+m/1016842-prophecy;Prophecy;PG;HORROR;John Frankenheimer;6/15/1979;11/06/2018;102;Paramount Pictures;36;3749
+m/1016847-protector;The Protector;R;ACTION & ADVENTURE;James Glickenhaus;8/23/1985;02/11/2017;95;Warner Bros. Pictures;45;6888
+m/1016854-prowler;The Prowler;R;HORROR;Joseph Zito;11/06/1981;08/10/2016;88;Fangoria;49;3307
+m/1016885-public_enemy;The Public Enemy;NR;ACTION & ADVENTURE;William Wellman;4/23/1931;7/24/2014;84;WARNER BROTHERS PICTURES;84;7518
+m/1016897-pulse;Pulse;PG-13;HORROR;Paul Golding;01/01/1988;01/01/2012;91;Sony Pictures Entertainment;30;2718
+m/1017021-quo_vadis;Quo Vadis?;PG;DRAMA;Mervyn LeRoy;2/23/1951;09/11/2015;171;MGM Home Entertainment;73;3724
+m/1017123-raisin_in_the_sun;A Raisin in the Sun;PG;DRAMA;Daniel Petrie Sr.;05/01/1961;2/13/2013;128;Sony Pictures Home Entertainment;86;7161
+m/1017226-raw_deal;Raw Deal;R;ACTION & ADVENTURE;John Irvin;06/06/1986;10/06/2016;105;HBO Video;28;21207
+m/1017237-razors_edge;The Razor's Edge;NR;DRAMA;Edmund Goulding;01/01/1946;05/01/2015;146;Twentieth Century Fox;72;1905
+m/1017238-razors_edge;The Razor's Edge;PG-13;DRAMA;John Byrum;10/19/1984;08/10/2016;128;Columbia Pictures;77;4100
+m/1017289-rear_window;Rear Window;PG;DRAMA;Alfred Hitchcock;09/01/1954;8/18/2015;112;Paramount Pictures;95;150824
+m/1017306-reckless;Reckless;R;ACTION & ADVENTURE;James Foley;02/03/1984;01/12/2017;90;MGM;69;967
+m/1017321-red_dawn;Red Dawn;PG-13;ACTION & ADVENTURE;John Milius;08/10/1984;1/19/2017;114;MGM/UA;65;49159
+m/1017328-red_heat;Red Heat;R;ACTION & ADVENTURE;Walter Hill;6/17/1988;11/23/2016;103;Live Home Video;37;37045
+m/1017346-red_shoes;The Red Shoes;R;DRAMA;Michael Powell, Emeric Pressburger;09/06/1948;3/23/2017;133;Eagle-Lion Films;92;11766
+m/1017352-red_sonja;Red Sonja;PG-13;ACTION & ADVENTURE;Richard Fleischer;07/03/1985;05/08/2015;89;MGM/UA;28;35233
+m/1017410-repentance;Monanieba (Repentance);PG;DRAMA;Tenghiz Abuladze;05/01/1984;;145;Media Home Entertainment;90;404
+m/1017488-return_to_oz;Return to Oz;PG;ACTION & ADVENTURE;Walter Murch;6/21/1985;05/04/2016;110;Walt Disney Studios;71;62092
+m/1017502-revenge;Revenge;R;ACTION & ADVENTURE;Tony Scott;2/16/1990;4/16/2012;124;Sony Pictures Home Entertainment;54;9175
+m/1017530-rich_and_famous;Rich and Famous;R;COMEDY;George Cukor;9/23/1981;11/21/2016;115;MGM Home Entertainment;38;322
+m/1017641-risky_business;Risky Business;R;COMEDY;Paul Brickman;08/05/1983;09/01/2008;96;Warner Bros.;72;71207
+m/1017666-road_house;Road House;R;ACTION & ADVENTURE;Rowdy Herrington;5/19/1989;9/20/2015;112;United Artists;66;60233
+m/1017699-robin_hood;Robin Hood;G;ACTION & ADVENTURE;Wolfgang Reitherman;11/08/1973;9/30/2014;83;Buena Vista Pictures;81;271691
+m/1017712-robocop;RoboCop;R;ACTION & ADVENTURE;Paul Verhoeven;7/17/1987;8/27/2015;102;Orion Pictures Corporation;84;226455
+m/1017745-rock_n_roll_high_school;Rock 'n' Roll High School;PG;COMEDY;Allan Arkush;08/04/1979;05/03/2018;93;New World Pictures;75;14695
+m/1017776-rocky;Rocky;PG;DRAMA;John G. Avildsen;11/21/1976;10/31/2015;119;United Artists;69;33403994
+m/1017823-roman_spring_of_mrs_stone;The Roman Spring of Mrs. Stone;R;DRAMA;Jose Quintero;01/01/1961;4/16/2012;104;Warner Home Video;60;1097
+m/1017834-romeo_and_juliet;Romeo and Juliet;PG;DRAMA;Franco Zeffirelli;10/08/1968;11/22/2015;138;Paramount Home Video;74;65196
+m/1017991-runaway;Runaway;PG-13;ACTION & ADVENTURE;Michael Crichton;12/14/1984;4/16/2012;100;Sony Pictures Home Entertainment;32;7197
+m/1018009-running_scared;Running Scared;R;ACTION & ADVENTURE;Peter Hyams;6/27/1986;11/30/2016;106;MGM Home Entertainment;58;8377
+m/1018047-sabrina;Sabrina;G;COMEDY;Billy Wilder;09/09/1954;06/06/2014;113;Paramount Home Video;89;55306
+m/1018069-sahara;Sahara;NR;ACTION & ADVENTURE;Zoltan Korda;11/11/1943;11/20/2012;97;Sony Pictures Home Entertainment;86;4881
+m/1018126-samson_and_delilah;Samson and Delilah;G;DRAMA;Cecil B. DeMille;10/31/1949;1/15/2017;128;Paramount Home Video;59;2075
+m/1018315-scanners;Scanners;R;HORROR;David Cronenberg;2/14/1981;03/11/2017;102;Sony Pictures Home Entertainment;64;31505
+m/1018318-scarecrow;Scarecrow;R;DRAMA;Jerry Schatzberg;01/01/1973;11/21/2016;115;Warner Home Video;79;6594
+m/1018323-scarface;Scarface;PG;DRAMA;Howard Hawks;04/09/1932;07/03/2012;93;Universal Pictures;86;25955
+m/1018413-scrooge;Scrooge;G;DRAMA;Ronald Neame;11/05/1970;1/16/2018;118;National General Pictures;84;9183
+m/1018433-sea_hawk;The Sea Hawk;NR;ACTION & ADVENTURE;Michael Curtiz;07/01/1940;09/01/2009;127;Warner Bros.;87;4999
+m/1018473-second_sight;Second Sight;PG;COMEDY;Joel Zwick;11/03/1989;01/12/2017;84;Warner Home Video;29;656
+m/1018550-see_no_evil;Blind Terror (See No Evil);PG;DRAMA;Richard Fleischer;09/02/1971;4/16/2012;89;Sony Pictures Entertainment;56;670
+m/1018587-separate_tables;Separate Tables;G;DRAMA;Delbert Mann;12/18/1958;05/04/2016;99;MGM Home Entertainment;76;1355
+m/1018688-shadow_of_a_doubt;Shadow of a Doubt;PG;DRAMA;Alfred Hitchcock;01/12/1943;4/19/2016;108;Universal Pictures;89;19468
+m/1018699-shaft;Shaft;R;ACTION & ADVENTURE;Gordon Parks;01/01/1971;01/01/2008;100;MGM Home Entertainment;68;12099
+m/1018702-shaggy_dog;The Shaggy Dog;G;COMEDY;Charles Barton;3/19/1959;03/01/2016;104;Walt Disney Productions;48;9043
+m/1018704-shakedown;Shakedown;R;ACTION & ADVENTURE;James Glickenhaus;05/06/1988;4/19/2016;90;MCA Universal Home Video;40;1447
+m/1018711-shall_we_dance;Shall We Dance;NR;COMEDY;Mark Sandrich;05/07/1937;11/21/2016;109;RKO Radio Pictures;85;8855
+m/1018885-shooting;The Shooting;PG-13;ACTION & ADVENTURE;Monte Hellman;01/01/1967;10/15/2016;82;VCI;65;1996
+m/1018891-short_circuit;Short Circuit;PG;COMEDY;John Badham;05/09/1986;12/06/2016;98;Twentieth Century Fox Home Entertainment;67;168982
+m/1018909-shot_in_the_dark;A Shot in the Dark;PG;COMEDY;Blake Edwards;6/23/1964;05/04/2017;101;MGM Home Entertainment;87;17961
+m/1018916-show_boat;Show Boat;NR;DRAMA;George Sidney;01/01/1951;4/17/2012;107;MGM Home Entertainment;71;5459
+m/1018989-silent_night_deadly_night;Silent Night, Deadly Night;R;HORROR;Charles E. Sellier Jr;11/09/1984;11/30/2016;79;TriStar Pictures;39;8768
+m/1018994-silent_partner;The Silent Partner;R;COMEDY;Daryl Duke;09/07/1978;11/30/2016;103;;85;520
+m/1019017-silver_streak;Silver Streak;PG;ACTION & ADVENTURE;Arthur Hiller;12/03/1976;2/14/2016;113;Twentieth Century Fox Home Entertainment;71;9083
+m/1019026-simon;Simon;PG;COMEDY;Marshall Brickman;02/02/1980;6/28/2016;97;Warner Bros.;69;198
+m/1019045-sinbad_the_sailor;Sinbad the Sailor;NR;ACTION & ADVENTURE;Richard Wallace;;1/13/2017;117;RKO Radio Pictures;60;1201
+m/1019128-skin_deep;Skin Deep;R;COMEDY;Blake Edwards;03/03/1989;12/27/2018;101;Media Home Entertainment;56;2814
+m/1019187-sleeping_beauty;Sleeping Beauty;G;SCIENCE FICTION & FANTASY;Les Clark, Clyde Geronimi, Wolfgang Reitherman, Eric Larson;1/29/1959;9/24/2019;75;Buena Vista;80;428044
+m/1019378-something_to_sing_about;Something to Sing About;NR;COMEDY;Victor Schertzinger;11/19/1937;08/11/2016;93;Screencraft Pictures;29;103
+m/1019441-sorcerer;Sorcerer;PG;ACTION & ADVENTURE;William Friedkin;6/24/1977;08/05/2014;121;Universal/Paramount Pictures;83;3800
+m/1019541-sparkle;Sparkle;PG;DRAMA;Sam O'Steen;04/07/1976;01/01/2009;100;Warner Home Video;90;4581
+m/1019544-spartacus;Spartacus;PG-13;ACTION & ADVENTURE;Stanley Kubrick;10/07/1960;12/18/2015;184;Universal Pictures;87;78097
+m/1019641-splash;Splash;PG;COMEDY;Ron Howard;03/09/1984;;;Touchstone Pictures;;
+m/1019716-spring_break;Spring Break;R;COMEDY;Sean S. Cunningham, Keith Hemstreet;3/25/1983;7/30/2013;100;Anchor Bay Entertainment;41;1803
+m/1019743-squeeze;The Squeeze;PG-13;ACTION & ADVENTURE;Roger Young;07/10/1987;4/16/2012;101;HBO Video;29;349
+m/1019761-1019761-st_valentines_day_massacre;The St. Valentine's Day Massacre;NR;ACTION & ADVENTURE;Roger Corman;6/30/1967;11/25/2015;100;20th Century Fox;66;1318
+m/1019774-stagecoach;Stagecoach;NR;ACTION & ADVENTURE;John Ford;03/02/1939;08/10/2016;96;Warner Home Video;86;14614
+m/1019777-stage_fright;Stage Fright;G;DRAMA;Alfred Hitchcock;4/15/1950;8/15/2008;110;IMAX;68;5953
+m/1019779-stakeout;Stakeout;R;COMEDY;John Badham;08/05/1987;02/09/2016;115;Touchstone Pictures;56;19144
+m/1019828-star_is_born;A Star Is Born;PG;DRAMA;William Wellman, Jack Conway;4/20/1937;08/07/2015;111;Image Entertainment Inc.;78;2686
+m/1019829-star_is_born;A Star Is Born;PG;DRAMA;George Cukor;9/29/1954;10/04/2016;176;Warner Bros. Pictures;82;9256
+m/1019831-star_is_born;A Star is Born;R;DRAMA;Frank R. Pierson;12/17/1976;7/24/2014;140;Warner Bros. Pictures;64;6361
+m/101_dalmatians;101 Dalmatians;G;COMEDY;Clyde Geronimi, Hamilton S. Luske, Wolfgang Reitherman, Hamilton Luske;1/25/1961;08/10/2016;79;Buena Vista;76;709291
+m/1020130-sting;The Sting;PG;COMEDY;George Roy Hill;12/01/1973;05/08/2015;129;Universal Pictures;95;61731
+m/1020287-stranger;The Stranger;PG;DRAMA;Orson Welles;01/01/1946;6/30/2016;95;RKO Pictures;81;5303
+m/1020333-streetcar_named_desire;A Streetcar Named Desire;PG;DRAMA;Elia Kazan;9/19/1951;10/02/2013;122;Warner Bros. Pictures;90;55148
+m/1020415-suddenly;Suddenly;PG;ACTION & ADVENTURE;Lewis Allen;10/07/1954;2/26/2015;75;United Artists;63;1890
+m/1020451-summer_school;Summer School;PG-13;COMEDY;Carl Reiner;7/22/1987;08/01/2013;96;Paramount Home Video;58;27856
+m/1020479-sundowners;The Sundowners;NR;ACTION & ADVENTURE;Fred Zinnemann;12/08/1960;11/01/2014;133;Warner Home Video;62;589
+m/1020488-sunshine_boys;The Sunshine Boys;PG;COMEDY;Herbert Ross;11/06/1975;11/21/2016;111;MGM Home Entertainment;73;2461
+m/1020659-suspect;Suspect;R;DRAMA;Peter Yates;10/23/1987;04/09/2013;121;Sony Pictures Home Entertainment;58;6776
+m/1020660-suspicion;Suspicion;NR;DRAMA;Alfred Hitchcock;11/14/1941;4/27/2016;99;WARNER BROTHERS PICTURES;78;14737
+m/1020664-svengali;Svengali;NR;DRAMA;Archie Mayo;12/31/1931;08/11/2016;76;Warner Bros.;80;756
+m/1020684-sweet_bird_of_youth;Sweet Bird of Youth;R;DRAMA;Richard Brooks;3/21/1962;11/21/2016;120;MGM Home Entertainment;72;1294
+m/1020729-swing_time;Swing Time;NR;ROMANCE;George Stevens;09/04/1936;8/18/2008;105;RKO Radio Pictures Inc.;87;7395
+m/1020736-swiss_family_robinson;Swiss Family Robinson;G;ACTION & ADVENTURE;Ken Annakin;12/21/1960;07/12/2016;128;Buena Vista Pictures;78;41488
+m/1020814-tale_of_two_cities;A Tale of Two Cities;NR;DRAMA;Jack Conway;01/01/1935;4/16/2012;128;Warner Home Video;84;2145
+m/1020861-taming_of_the_shrew;The Taming of the Shrew;NR;COMEDY;Franco Zeffirelli, Artie Mandelberg;03/08/1967;4/16/2012;126;Sony Pictures Home Entertainment;74;7870
+m/1020889-target;Target;R;ACTION & ADVENTURE;Arthur Penn;11/08/1985;7/22/2003;117;Warner Bros.;35;2404
+m/1020897-tarzan_the_ape_man;Tarzan, the Ape Man;R;ACTION & ADVENTURE;John Derek;7/24/1981;01/01/2008;112;United Artists;19;3577
+m/1021008-tempest;Tempest;PG;COMEDY;Paul Mazursky;8/13/1982;01/01/2012;145;Columbia Pictures;74;774
+m/1021014-ten_commandments;The Ten Commandments;NR;DRAMA;Cecil B. DeMille;01/01/1923;7/22/2016;146;Paramount Pictures;73;7723
+m/1021015-ten_commandments;The Ten Commandments;G;DRAMA;Cecil B. DeMille;10/05/1956;11/24/2016;220;Paramount Pictures;87;60242
+m/1021067-terror;Tales of Terror;NR;COMEDY;Roger Corman;07/04/1962;4/15/2017;90;American International Picture;63;4999
+m/1021128-that_championship_season;That Championship Season;R;DRAMA;Jason Miller;;08/01/2006;108;Golan-Globus Productions;50;84
+m/1021186-them;Them!;PG;HORROR;Gordon Douglas;6/19/1954;11/07/2008;94;Warner Home Video;77;8718
+m/1021211-shivers;Shivers (They Came from Within) (The Parasite Murders);R;HORROR;David Cronenberg;01/01/1975;11/08/2016;88;;59;8412
+m/1021214-they_drive_by_night;They Drive by Night;NR;DRAMA;Raoul Walsh;08/03/1940;4/16/2012;93;Warner Bros. Pictures;71;2387
+m/1021230-thief;Thief;R;ACTION & ADVENTURE;Michael Mann;3/27/1981;11/30/2016;122;MGM Home Entertainment;81;7231
+m/1021242-thing;The Thing from Another World;NR;HORROR;Christian Nyby;01/01/1951;04/01/2012;87;Warner Home Video;73;7972
+m/1021244-thing;The Thing;R;HORROR;John Carpenter;07/01/1982;6/15/2012;108;Universal Pictures;92;132195
+m/1021262-thirst;Thirst;R;DRAMA;Rod Hardy;9/29/1979;5/14/2019;98;Media Home Entertainment;41;411
+m/1021269-this_gun_for_hire;This Gun for Hire;R;DRAMA;Frank Tuttle;5/13/1942;8/30/2016;80;Paramount Pictures;82;2408
+m/1021312-three_amigos;Three Amigos!;PG;COMEDY;John Landis;12/12/1986;3/17/2017;105;HBO Video;67;181167
+m/1021316-three_brothers;Tre Fratelli (Three Brothers);PG;DRAMA;Francesco Rosi;05/01/1981;03/10/2017;113;Gaumont;60;781
+m/1021339-three_musketeers;The Three Musketeers;NR;ACTION & ADVENTURE;George Sidney;10/20/1948;05/08/2015;125;WARNER BROTHERS PICTURES;74;2325
+m/1021340-three_musketeers;The Three Musketeers;PG;ACTION & ADVENTURE;Richard Lester;12/11/1973;8/23/2016;105;Live Home Video;78;9688
+m/1021500-time_machine;The Time Machine;G;ACTION & ADVENTURE;George Pal;8/17/1960;01/01/2008;103;MGM Home Entertainment;79;19477
+m/1021648-tommy;Tommy;PG;DRAMA;Ken Russell;3/19/1975;4/16/2012;111;Sony Pictures;72;30232
+m/1021681-toolbox_murders;The Toolbox Murders;R;DRAMA;Dennis Donnelly;03/01/1978;08/10/2016;93;Scary Movies LLC;30;2441
+m/1021699-top_secret;Top Secret!;PG;COMEDY;David Zucker, Jim Abrahams, Jerry Zucker;06/08/1984;06/06/2014;90;Paramount Home Video;80;41598
+m/1021721-torso;I corpi presentano tracce di violenza carnale (Torso) (Bodies Bear Traces of Carnal Violence);R;HORROR;Sergio Martino;10/01/1973;12/09/2016;90;Anchor Bay Entertainment;55;2014
+m/1021749-touch_of_evil;Touch of Evil;PG-13;DRAMA;Orson Welles;5/21/1958;3/18/2014;95;October Films;92;31216
+m/1021765-tough_guys;Tough Guys;PG;COMEDY;Jeff Kanew;10/03/1986;3/22/2016;103;Touchstone Pictures;55;3246
+m/1021963-treasure_island;Treasure Island;NR;ACTION & ADVENTURE;Victor Fleming;8/17/1934;11/05/2015;105;Warner Home Video;74;1646
+m/1021964-treasure_island;Treasure Island;PG;ACTION & ADVENTURE;Byron Haskin;7/19/1950;07/01/2015;96;Walt Disney Productions;67;8736
+m/1022001-trial;Le ProcÃ¨s (The Trial);NR;DRAMA;Orson Welles;12/21/1962;11/08/2016;118;Gibraltar Films;87;6774
+m/1022024-trip;The Trip;R;ACTION & ADVENTURE;Roger Corman;01/01/1967;05/04/2017;85;American International Pictures;52;2796
+m/1022172-twelve_oclock_high;Twelve O'Clock High;NR;ACTION & ADVENTURE;Henry King;01/01/1949;3/13/2017;132;Twentieth Century Fox Home Entertainment;87;6019
+m/1022191-twins;Twins;PG;COMEDY;Ivan Reitman;12/09/1988;6/15/2012;112;Universal Pictures;39;204221
+m/1022314-uncommon_valor;Uncommon Valor;R;ACTION & ADVENTURE;Ted Kotcheff;12/16/1983;08/10/2016;105;Paramount Home Video;62;6878
+m/1022315-undefeated;The Undefeated;G;WESTERN;Andrew V. McLaglen;01/01/1969;11/25/2015;119;Twentieth Century Fox Home Entertainment;65;6244
+m/1022369-unfaithfully_yours;Unfaithfully Yours;NR;COMEDY;Preston Sturges;12/10/1948;9/18/2012;105;Fox;87;2317
+m/1022373-unforgiven;The Unforgiven;G;ACTION & ADVENTURE;John Huston;04/06/1960;4/18/2017;125;United Artists;59;6655
+m/1022473-valley_girl;Valley Girl;R;COMEDY;Martha Coolidge;01/01/1983;11/01/2016;95;Vestron Video;72;13724
+m/1022537-venom;Venom;R;HORROR;Piers Haggard;1/29/1981;5/22/2017;93;Blue Underground;31;3072
+m/1022570-vice_versa;Vice Versa;PG;COMEDY;Brian Gilbert;03/11/1988;4/16/2012;97;Sony Pictures Home Entertainment;41;8095
+m/1022576-victory;Victory;PG;ACTION & ADVENTURE;John Huston;7/30/1981;11/27/2013;117;Paramount Pictures;71;10345
+m/1022823-village_of_the_damned;Village of the Damned;R;HORROR;Wolf Rilla;;10/01/2009;78;Warner Home Video;77;9650
+m/1023007-walking_tall;Walking Tall;R;ACTION & ADVENTURE;Phil Karlson;01/01/1973;01/05/2017;125;Cinerama;71;6730
+m/1023205-warriors;The Warriors;R;ACTION & ADVENTURE;Walter Hill;02/09/1979;08/01/2013;90;Paramount Pictures;88;76128
+m/1023236-water;Water;PG-13;ACTION & ADVENTURE;Dick Clement;;2/22/2011;91;Anchor Bay Entertainment;68;402
+m/1023286-were_no_angels;We're No Angels;PG-13;COMEDY;Neil Jordan;12/15/1989;01/01/2017;108;Paramount Home Video;41;8685
+m/1023316-weird_science;Weird Science;PG-13;COMEDY;John Hughes;08/02/1985;09/10/2013;94;Universal Pictures;69;124551
+m/1023461-when_a_stranger_calls;When a Stranger Calls;R;HORROR;Fred Walton;9/28/1979;10/19/2019;100;Sony Pictures Home Entertainment;49;32204
+m/1023508-where_the_boys_are;Where the Boys Are;NR;COMEDY;Henry Levin, George Wells;12/28/1960;12/30/2012;99;WARNER BROTHERS PICTURES;70;2096
+m/1023717-willard;Willard;PG;HORROR;Daniel Mann;;5/16/2017;95;Cinerama;38;2969
+m/1023739-winchester_73;Winchester '73;NR;WESTERN;Anthony Mann;07/12/1950;3/18/2014;92;Universal Pictures;86;5453
+m/1023854-witness;Witness;R;DRAMA;Peter Weir;02/08/1985;06/06/2014;112;Paramount Pictures;80;46814
+m/1023900-womans_face;A Woman's Face;NR;DRAMA;George Cukor;5/23/1941;6/28/2016;106;MGM Home Entertainment;82;490
+m/1023906-women;The Women;NR;COMEDY;George Cukor;01/01/1939;04/01/2009;132;MGM;88;6626
+m/1024191-wrong_man;The Wrong Man;PG;DRAMA;Alfred Hitchcock;12/22/1956;10/04/2016;105;Warner Bros. Pictures;75;8186
+m/1024192-wuthering_heights;Wuthering Heights;G;DRAMA;William Wyler;4/13/1939;02/01/2016;103;United Artists;85;8786
+m/1024232-year_of_the_dragon;Year of the Dragon;R;ACTION & ADVENTURE;Michael Cimino;8/16/1985;4/19/2016;134;MGM Home Entertainment;52;8479
+m/1024407-yours_mine_and_ours;Yours, Mine and Ours;NR;COMEDY;Melville Shavelson;4/24/1968;3/22/2016;111;MGM Home Entertainment;80;57777
+m/1028554-blue_steel;Blue Steel;R;ACTION & ADVENTURE;Kathryn Bigelow;3/16/1990;01/03/2017;102;MGM Home Entertainment;35;8738
+m/1028561-where_the_heart_is;Where the Heart Is;R;COMEDY;John Boorman;01/01/1990;2/18/2016;94;Touchstone Pictures;58;1987
+m/1028564-guardian;The Guardian;R;HORROR;William Friedkin;4/27/1990;11/01/2016;92;Universal;32;4857
+m/1028711-mystery_train;Mystery Train;R;COMEDY;Jim Jarmusch;11/17/1989;5/22/2017;113;Orion Home Video;87;10579
+m/1028715-revolution;Revolution;PG-13;ACTION & ADVENTURE;Hugh Hudson;12/25/1985;12/03/2013;123;Warner Home Video;32;3117
+m/1029042-henry_v;Henry V;PG-13;ACTION & ADVENTURE;Kenneth Branagh;11/08/1989;05/01/2017;137;MGM Home Entertainment;89;13465
+m/1029072-kiss_of_death;Kiss of Death;NR;DRAMA;Henry Hathaway;8/27/1947;1/30/2017;98;20th Century Fox;76;2054
+m/1029099-conquest;Conquest;NR;DRAMA;Clarence Brown;10/22/1937;10/20/2017;112;Metro-Goldwyn-Mayer (MGM);50;514
+m/1029112-alice_in_wonderland;Alice in Wonderland;G;COMEDY;Clyde Geronimi, Wilfred Jackson, Hamilton Luske;7/28/1951;12/27/2015;75;Film Chest;78;574325
+m/1029161-my_blue_heaven;My Blue Heaven;PG-13;COMEDY;Herbert Ross;8/17/1990;1/15/2008;95;Warner Bros. Pictures;59;16784
+m/1029314-dick_tracy;Dick Tracy;PG;ACTION & ADVENTURE;Warren Beatty;6/14/1990;08/10/2016;110;Buena Vista Pictures;53;77262
+m/1029408-bombshell;Bombshell (Blonde Bombshell);NR;COMEDY;Victor Fleming;10/13/1933;4/16/2012;95;MGM;74;638
+m/1029427-navy_seals;Navy Seals;R;ACTION & ADVENTURE;Lewis Teague;7/20/1990;8/23/2016;113;Orion Home Video;42;19938
+m/1029895-goodbye_mr_chips;Goodbye, Mr. Chips;G;DRAMA;Herbert Ross;11/05/1969;3/27/2016;151;MGM;71;636
+m/102_dalmatians;102 Dalmatians;G;COMEDY;Kevin Lima;11/22/2000;07/12/2016;100;Buena Vista Pictures;32;406533
+m/1030142-champ;The Champ;NR;DRAMA;King Vidor;11/21/1931;01/04/2017;86;MGM;74;617
+m/1030146-narrow_margin;Narrow Margin;R;ACTION & ADVENTURE;Peter Hyams;9/21/1990;10/08/2016;97;Live Home Video;50;2812
+m/1030244-red_dust;Red Dust;NR;DRAMA;Victor Fleming;01/01/1932;11/27/2013;83;MGM;78;967
+m/1030864-desperate_hours;Desperate Hours;R;DRAMA;Michael Cimino;10/05/1990;06/01/2017;106;Metro Goldwyn Mayer;23;3280
+m/1031086-ghost;Ghost;PG-13;COMEDY;Jerry Zucker;7/13/1990;08/01/2013;127;Paramount Pictures;80;469588
+m/1031087-memphis_belle;Memphis Belle;PG-13;ACTION & ADVENTURE;Michael Caton-Jones;09/07/1990;06/01/2009;108;MVD Music Video;79;29775
+m/1031274-faust;Faust;NR;HORROR;F.W. Murnau;12/05/1926;5/22/2017;117;MGM;91;5580
+m/1031278-gun_crazy;Gun Crazy (Deadly Is the Female);R;ACTION & ADVENTURE;Joseph H. Lewis;1/20/1950;11/21/2016;87;United Artists;84;3263
+m/1031385-jungle_book;The Jungle Book;PG;ACTION & ADVENTURE;Wolfgang Reitherman;10/18/1967;08/10/2016;78;Buena Vista Pictures;82;715040
+m/1031440-long_goodbye;The Long Goodbye;R;DRAMA;Robert Altman;03/07/1973;4/18/2017;112;United Artists;88;10294
+m/1031458-houdini;Houdini;NR;DRAMA;George Marshall;07/02/1953;08/10/2016;106;Paramount Home Video;59;620
+m/1031472-avalon;Avalon;PG;DRAMA;Barry Levinson;10/05/1990;4/19/2013;126;Sony Pictures Home Entertainment;77;3236
+m/1031635-rookie;The Rookie;R;ACTION & ADVENTURE;Clint Eastwood;12/07/1990;01/01/2009;121;Warner Home Video;36;20594
+m/1031744-long_walk_home;The Long Walk Home;PG;DRAMA;Richard Pearce;12/21/1990;10/08/2016;97;Miramax;84;5412
+m/1031763-anastasia;Anastasia;NR;DRAMA;Anatole Litvak;12/13/1956;11/25/2015;105;20th Century Fox;78;13705
+m/1031766-jane_eyre;Jane Eyre;R;DRAMA;Robert Stevenson;02/03/1944;10/27/2015;96;RKO Pictures;83;5836
+m/1031984-pit_and_the_pendulum;The Pit and the Pendulum;R;HORROR;Stuart Gordon;6/27/1991;11/30/2016;97;MGM;39;2249
+m/1032176-goodfellas;GoodFellas;R;DRAMA;Martin Scorsese;9/19/1990;8/15/2008;146;Warner Bros.;97;429632
+m/1032180-after_hours;After Hours;R;COMEDY;Martin Scorsese;9/13/1985;05/01/2008;97;Warner Bros. Pictures;87;22165
+m/1032182-white_fang;White Fang;PG;ACTION & ADVENTURE;Randal Kleiser;1/18/1991;07/08/2016;109;Buena Vista Pictures;63;39910
+m/1032409-boy_meets_girl;Boy Meets Girl (1984);R;DRAMA;Leos Carax;11/21/1984;02/10/2017;100;Franco London Films;73;672
+m/1032518-mata_hari;Mata Hari;NR;ACTION & ADVENTURE;George Fitzmaurice;06/01/1932;11/21/2016;91;MGM Home Entertainment;55;1349
+m/1032522-alice;Alice;PG-13;COMEDY;Woody Allen;12/25/1990;12/02/2016;106;MGM Pictures, Inc.;57;6869
+m/1032750-hidden_agenda;Hidden Agenda;R;DRAMA;Ken Loach;09/11/1990;05/01/2017;108;HBO Video;72;771
+m/1032795-connection;The Connection;NR;DRAMA;Shirley Clarke;;11/20/2016;110;Films Around the World;79;126
+m/1032798-entertainer;The Entertainer;NR;DRAMA;Tony Richardson;01/01/1960;9/29/2016;97;Continental;73;1166
+m/1032814-sorry_wrong_number;Sorry, Wrong Number;NR;DRAMA;Anatole Litvak;09/01/1948;1/13/2017;89;Paramount Pictures;78;4899
+m/1032970-awakenings;Awakenings;PG-13;DRAMA;Penny Marshall;12/19/1990;4/16/2012;121;Columbia Pictures;89;55182
+m/1033465-true_colors;True Colors;R;DRAMA;Herbert Ross;3/15/1991;08/01/2013;112;Paramount Home Video;45;4945
+m/1034067-switch;Switch;R;COMEDY;Blake Edwards;05/10/1991;10/01/2016;104;HBO Video;43;6961
+m/1034131-field;The Field;PG-13;DRAMA;Jim Sheridan;01/01/1990;2/26/2002;107;Live Home Video;81;2808
+m/1034151-oscar;Oscar;PG;COMEDY;John Landis;4/26/1991;03/04/2016;109;Touchstone Pictures;63;21122
+m/1035050-night_nurse;Night Nurse;NR;DRAMA;William Wellman, Igor Auzins;08/08/1931;11/21/2016;72;Warner Bros. Pictures;73;918
+m/1035061-fury;Fury;NR;DRAMA;Fritz Lang;5/29/1936;4/16/2012;90;WARNER BROTHERS PICTURES;89;3092
+m/1035065-possessed;Possessed;NR;DRAMA;Clarence Brown, Curtis Bernhardt;7/26/1947;08/11/2016;108;Warner Bros. Pictures;76;1238
+m/1035316-born_to_kill;Born to Kill;NR;DRAMA;Robert Wise;01/01/1947;5/23/2016;92;WARNER BROTHERS PICTURES;75;651
+m/1035639-toy_soldiers;Toy Soldiers;R;ACTION & ADVENTURE;Daniel Petrie Sr., Daniel Petry, Daniel Petrie Jr.;4/26/1991;4/16/2012;112;Sony Pictures Home Entertainment;66;39419
+m/1036052-come_and_see;Come and See (Idi i smotri);NR;DRAMA;Elem Klimov;10/17/1985;1/28/2015;142;Kino International;95;8575
+m/1036129-miracle;The Miracle;PG;DRAMA;Neil Jordan;06/01/1991;;96;Live Home Video;62;102
+m/1036179-hot_shots;Hot Shots!;PG-13;COMEDY;Jim Abrahams;7/31/1991;11/25/2015;85;Twentieth Century Fox Home Entertainment;65;157638
+m/1036458-dogfight;Dogfight;R;DRAMA;Nancy Savoca;9/13/1991;4/16/2012;95;Warner Home Video;87;7696
+m/1036553-hitman;The Hitman;R;ACTION & ADVENTURE;Aaron Norris;10/25/1991;06/01/2012;95;Cannon Home Video;45;5277
+m/1036653-teachers_pet;Teacher's Pet;NR;COMEDY;George Seaton;04/01/1958;01/11/2016;120;Paramount Home Video;71;3154
+m/1036952-shattered;Shattered;R;DRAMA;Wolfgang Petersen;10/11/1991;08/02/2016;98;MGM Home Entertainment;56;4371
+m/1036976-romeo_and_juliet;Romeo and Juliet;NR;DRAMA;George Cukor;09/03/1936;11/21/2016;126;MGM;50;6
+m/1037015-doctor;The Doctor;PG-13;DRAMA;Randa Haines;7/24/1991;2/19/2016;125;Touchstone Pictures;72;3351
+m/1037017-paradise;Paradise;PG-13;DRAMA;Mary Agnes Donoghue;9/18/1991;08/10/2016;111;Touchstone Pictures;50;3747
+m/1037024-commitments;The Commitments;R;COMEDY;Alan Parker;8/14/1991;3/18/2017;117;20th Century Fox Film Corporation;90;28391
+m/1037161-frankie_and_johnny;Frankie & Johnny;R;COMEDY;Garry Marshall;10/11/1991;08/10/2016;118;Paramount Home Video;67;21617
+m/1037177-deceived;Deceived;PG-13;DRAMA;Damian Harris, Damien Harris;9/27/1991;03/06/2016;103;Buena Vista Pictures;42;3744
+m/1037244-star;The Star;NR;DRAMA;Stuart Heisler;12/11/1952;7/24/2012;89;20th Century Fox Film Corporation;60;1288
+m/1037447-poison;Poison;NC17;DRAMA;Todd Haynes;04/05/1991;3/13/2017;86;Zeitgeist Films;68;1906
+m/1037581-cape_fear;Cape Fear;R;DRAMA;Martin Scorsese;11/13/1991;4/19/2016;128;MCA/Universal Pictures;77;68798
+m/1037599-voyager;Homo Faber (Voyager);PG-13;DRAMA;Volker SchlÃ¶ndorff;2/21/1991;03/12/2020;117;Academy Entertainment;72;552
+m/1037649-my_girl;My Girl;PG-13;COMEDY;Howard Zieff;11/27/1991;4/16/2012;102;Sony Pictures Home Entertainment;77;394678
+m/1037756-jfk;JFK;R;DRAMA;Oliver Stone;12/20/1991;12/26/2008;189;Warner Bros.;88;62583
+m/1037780-man_in_the_moon;The Man in the Moon;PG-13;DRAMA;Robert Mulligan;8/30/1991;01/01/2017;99;MGM;85;33335
+m/1037786-prize;The Prize;NR;ACTION & ADVENTURE;Mark Robson;01/01/1963;4/16/2012;136;MGM;68;730
+m/1037789-train;The Train;NR;ACTION & ADVENTURE;Jayaraaj;03/07/1965;1/24/2017;133;United Artists;89;4291
+m/1037864-father_of_the_bride;Father of the Bride;PG;COMEDY;Charles Shyer;01/01/1991;6/13/2017;105;Touchstone Pictures;70;375160
+m/1038009-rush;Rush;R;ACTION & ADVENTURE;Lili Fini Zanuck;12/22/1991;4/15/2017;120;MGM;72;8370
+m/1038176-medicine_man;Medicine Man;PG-13;DRAMA;John McTiernan;02/07/1992;03/04/2016;106;Hollywood Pictures;46;37447
+m/1038237-platinum_blonde;Platinum Blonde;NR;COMEDY;Frank Capra;10/31/1931;5/14/2014;90;Columbia Pictures;66;1078
+m/1038526-uninvited;The Uninvited;NR;HORROR;Lewis Allen;02/10/1944;03/10/2017;98;MCA Universal Home Video;81;2702
+m/1038613-italian_job;The Italian Job;G;ACTION & ADVENTURE;Peter Collinson;01/01/1969;08/01/2013;101;Paramount Pictures;86;71135
+m/1038726-beethoven;Beethoven;PG;COMEDY;Brian Levant;04/03/1992;6/15/2012;88;Universal Pictures;35;432362
+m/1038770-high_heels;Tacones Lejanos (High Heels);R;COMEDY;Pedro AlmodÃ³var;10/23/1991;11/15/2016;114;CiBy 2000;83;6978
+m/1038978-babe;The Babe;PG;DRAMA;Arthur Hiller;4/17/1992;05/07/2015;115;MCA Universal Home Video;37;7355
+m/1038990-cutting_edge;The Cutting Edge;PG;COMEDY;Paul Michael Glaser;01/01/1992;8/27/2015;101;MGM Home Entertainment;76;43281
+m/1039071-gladiator;Gladiator;R;ACTION & ADVENTURE;Rowdy Herrington;;4/16/2012;102;Sony Pictures Home Entertainment;68;9794
+m/1039132-kid_galahad;Kid Galahad;NR;DRAMA;Michael Curtiz;5/29/1937;11/21/2016;101;Warner Home Video;68;395
+m/1039270-deep_cover;Deep Cover;R;ACTION & ADVENTURE;Bill Duke;4/15/1992;4/27/2016;108;WARNER BROTHERS PICTURES;77;8512
+m/1039460-all_i_want_for_christmas;All I Want for Christmas;G;COMEDY;Robert H. Lieberman;11/08/1991;12/26/2016;92;Paramount Home Video;59;9725
+m/1039511-class_act;Class Act;PG-13;COMEDY;Randall Miller;06/01/1992;06/07/2016;98;Warner Home Video;72;6068
+m/1039515-edward_ii;Edward II;R;DRAMA;Derek Jarman;3/20/1992;06/12/2018;91;BBC;75;1349
+m/1039575-1039575-midnight_clear;A Midnight Clear;R;ACTION & ADVENTURE;Keith Gordon;4/24/1992;5/22/2017;107;Sony Pictures Home Entertainment;79;3707
+m/1039796-boomerang;Boomerang;R;COMEDY;Reginald Hudlin;07/01/1992;08/01/2013;118;Paramount Pictures;59;35918
+m/1040198-rapid_fire;Rapid Fire;R;ACTION & ADVENTURE;Dwight H. Little, Dwight Little;8/21/1992;11/25/2015;95;Twentieth Century Fox Home Entertainment;55;10301
+m/1040204-live_wire;Live Wire;R;ACTION & ADVENTURE;Christian Duguay;09/03/1992;01/01/2012;85;WARNER BROTHERS PICTURES;30;2015
+m/1040322-of_mice_and_men;Of Mice and Men;PG-13;DRAMA;Gary Sinise;10/02/1992;9/13/2015;110;Metro-Goldwyn-Mayer Pictures;82;47865
+m/1040324-body_parts;Body Parts;R;HORROR;Eric Red;08/02/1991;01/01/2017;88;Paramount Home Video;33;7005
+m/1040378-cool_world;Cool World;PG-13;ACTION & ADVENTURE;Ralph Bakshi;07/10/1992;08/10/2016;102;Paramount Home Video;31;54819
+m/1040379-singles;Singles;PG-13;COMEDY;Cameron Crowe;9/18/1992;1/15/2008;99;Warner Home Video;72;21724
+m/1040398-naked_city;The Naked City;NR;DRAMA;Jules Dassin;03/04/1948;2/27/2017;96;Universal Pictures;80;3266
+m/1040442-conquest_of_space;Conquest of Space;NR;SCIENCE FICTION & FANTASY;Byron Haskin;4/20/1955;3/24/2016;80;Paramount Pictures;26;706
+m/1040484-wind;Wind;PG-13;ACTION & ADVENTURE;Carroll Ballard;01/01/1992;4/16/2012;125;Sony Pictures Home Entertainment;82;2954
+m/1040678-last_of_the_mohicans;The Last of the Mohicans;R;ACTION & ADVENTURE;Michael Mann;9/25/1992;07/01/2012;114;Twentieth Century Fox Home Entertainment;88;207424
+m/1040798-husbands_and_wives;Husbands and Wives;R;COMEDY;Woody Allen;10/18/1992;4/16/2012;93;Sony Pictures Home Entertainment;87;14161
+m/1040893-hero;Hero;PG-13;COMEDY;Stephen Frears;10/02/1992;4/16/2012;116;Columbia Pictures;50;16898
+m/1041055-ned_kelly;Ned Kelly (Ned Kelly, Outlaw);PG;ACTION & ADVENTURE;Tony Richardson;10/07/1970;3/20/2017;101;United Artists;26;1144
+m/1041070-hallelujah;Hallelujah;NR;DRAMA;King Vidor;8/20/1929;5/23/2016;106;WARNER BROTHERS PICTURES;55;897
+m/1041082-sea_wolf;The Sea Wolf;PG-13;ACTION & ADVENTURE;Michael Curtiz;01/01/1941;4/16/2012;90;Warner Bros. Pictures;76;247
+m/1041862-forever_young;Forever Young;PG;DRAMA;Steve Miner;12/16/1992;10/01/2010;102;Warner Home Video;53;59713
+m/1041870-matinee;Matinee;PG;COMEDY;Joe Dante;06/01/1992;4/19/2016;99;Universal Pictures;62;7011
+m/1041911-unforgiven;Unforgiven;R;DRAMA;Clint Eastwood;08/03/1992;8/15/2008;130;Warner Bros. Pictures;93;122729
+m/1042059-leap_of_faith;Leap of Faith;PG-13;COMEDY;Richard Pearce;12/18/1992;08/10/2016;108;Paramount Home Video;45;10923
+m/1042135-malcolm_x;Malcolm X;PG-13;DRAMA;Spike Lee;11/18/1992;1/25/2011;201;Warner Bros.;91;56970
+m/1042161-love_on_the_run;Love on the Run;NR;COMEDY;W.S. Van Dyke;11/20/1936;12/03/2013;80;Unknown;61;275
+m/1042193-scent_of_a_woman;Scent of a Woman;R;DRAMA;Martin Brest;12/23/1992;05/07/2015;157;Universal Pictures;92;119250
+m/1042212-nowhere_to_run;Nowhere to Run;R;ACTION & ADVENTURE;Robert Harmon;01/01/1993;4/16/2012;95;Sony Pictures Home Entertainment;32;20711
+m/1042281-sniper;Sniper;R;ACTION & ADVENTURE;Luis Llosa;06/01/1993;4/16/2012;99;Sony Pictures Home Entertainment;55;20720
+m/1042416-crush;The Crush;R;DRAMA;Alan Shapiro;04/02/1993;08/10/2016;89;Warner Home Video;41;20272
+m/1042466-boiling_point;Boiling Point;R;ACTION & ADVENTURE;James B. Harris;4/16/1993;01/01/2008;93;Warner Home Video;21;10271
+m/1042491-indian_summer;Indian Summer;PG-13;COMEDY;Mike Binder;4/23/1993;08/10/2016;98;Buena Vista;65;6815
+m/1042538-alive;Alive;R;ACTION & ADVENTURE;Frank Marshall;1/15/1993;2/29/2016;127;Buena Vista;68;46646
+m/1042629-point_of_no_return;Point of No Return (The Assassin);R;ACTION & ADVENTURE;John Badham;3/19/1993;10/10/2008;103;Warner Home Video;50;30177
+m/1043331-born_yesterday;Born Yesterday;PG;COMEDY;Luis Mandoki;3/26/1993;08/10/2016;101;Buena Vista;27;5986
+m/1043378-stalker;Stalker;NR;ACTION & ADVENTURE;Andrei Tarkovsky;08/01/1979;7/18/2017;163;Zweites Deutsches Fernsehen;93;25338
+m/1043923-browning_version;The Browning Version;NR;DRAMA;Anthony Asquith;3/13/1951;3/23/2017;90;Criterion Collection;95;742
+m/1043958-posse;Posse;R;ACTION & ADVENTURE;Mario Van Peebles;5/14/1993;10/01/2016;109;PolyGram Video;48;6801
+m/1043960-made_in_america;Made in America;PG-13;COMEDY;Richard Benjamin;5/28/1993;07/01/2015;110;Phase 4 Films;30;42394
+m/1044214-cliffhanger;Cliffhanger;R;ACTION & ADVENTURE;Renny Harlin;5/28/1993;05/08/2015;112;TriStar Pictures;52;182909
+m/1044391-frankenstein;Frankenstein;NR;DRAMA;David Wickes;12/29/1992;03/11/2017;117;;47;104
+m/1044522-firm;The Firm;R;DRAMA;Sydney Pollack;06/01/1993;08/01/2013;154;Paramount Pictures;64;67961
+m/1044836-black_scorpion;The Black Scorpion;NR;HORROR;Edward Ludwig;10/11/1957;11/01/2015;88;WARNER BROTHERS PICTURES;33;1233
+m/1044925-lodger;The Lodger: A Story of the London Fog;NR;DRAMA;Alfred Hitchcock;06/10/1928;5/22/2017;91;Video Yesteryear;76;4633
+m/1045171-equinox;Equinox;R;DRAMA;Alan Rudolph;06/01/1992;03/02/2017;110;Sony Pictures Home Entertainment;42;1320
+m/1045328-gypsy;Gypsy;NR;COMEDY;Emile Ardolino;;3/23/2017;150;Cabin Fever Entertainment;76;4576
+m/1045334-wide_sargasso_sea;Wide Sargasso Sea;R;DRAMA;John Duigan;4/16/1993;10/20/2016;96;Sony Pictures Home Entertainment;37;1116
+m/1045518-secret_garden;The Secret Garden;G;DRAMA;Agnieszka Holland;3/18/1993;01/01/2011;101;WARNER BROTHERS PICTURES;80;195111
+m/1045568-strictly_ballroom;Strictly Ballroom;PG;COMEDY;Baz Luhrmann;02/01/1992;5/27/2015;92;Miramax;87;43325
+m/1045706-calendar_girl;Calendar Girl;PG-13;COMEDY;John Whitesell;;01/02/2014;90;Sony Pictures Home Entertainment;31;5261
+m/1045833-savage_messiah;Savage Messiah;R;DRAMA;Ken Russell;09/01/1972;2/17/2016;100;;79;354
+m/1045933-deadfall;Deadfall;R;DRAMA;Christopher Coppola;7/15/1993;12/30/2016;99;Trimark;25;1364
+m/1045992-much_ado_about_nothing;Much Ado About Nothing;PG-13;COMEDY;Kenneth Branagh;05/07/1993;02/01/2016;110;Screenvision;86;51472
+m/1046035-airborne;Airborne;PG;ACTION & ADVENTURE;Rob Bowman;;5/26/2016;91;Warner Bros.;59;8543
+m/1046038-gettysburg;Gettysburg;PG;DRAMA;Ronald F. Maxwell;10/08/1993;01/01/2009;254;Turner Home Entertainment;89;29365
+m/1046049-fatal_instinct;Fatal Instinct;PG-13;COMEDY;Carl Reiner;10/29/1993;02/01/2017;88;MGM Home Entertainment;40;5619
+m/1046060-high_noon;High Noon;PG;WESTERN;Fred Zinnemann;7/24/1952;08/10/2016;85;United Artists;89;25442
+m/1046076-home_of_our_own;A Home of Our Own;PG;DRAMA;Tony Bill;01/01/1993;10/20/2016;102;PolyGram Video;73;4778
+m/1046129-fugitive;The Fugitive;PG-13;ACTION & ADVENTURE;Andrew Davis;08/06/1993;05/08/2015;127;Warner Bros. Pictures;89;267812
+m/1046151-fearless;Fearless;R;DRAMA;Peter Weir;01/01/1993;09/01/2008;121;Warner Bros. Pictures;80;12368
+m/1046180-trauma;Trauma (Dario Argento's Trauma);R;HORROR;Dario Argento;03/12/1993;10/13/2019;105;Worldvision Home Video;41;4026
+m/1046227-cool_runnings;Cool Runnings;PG;COMEDY;Jon Turteltaub;10/01/1993;12/13/2015;97;Disney;81;532977
+m/1046655-skin_game;The Skin Game;NR;COMEDY;Alfred Hitchcock;6/20/1931;12/21/2014;87;Warner Home Video;17;345
+m/1046723-man_who_loved_women;The Man Who Loved Women;R;COMEDY;Blake Edwards;12/16/1983;4/16/2012;110;Sony Pictures Home Entertainment;37;1591
+m/1046724-impact;Impact;NR;DRAMA;Arthur Lubin;01/01/1949;08/11/2016;111;United Artists;54;700
+m/1046771-into_the_west;Into the West;PG;ACTION & ADVENTURE;;01/01/1993;11/30/2016;102;Miramax;79;4348
+m/1046772-three_musketeers;The Three Musketeers;PG;ACTION & ADVENTURE;Stephen Herek;11/12/1993;5/27/2016;105;Disney;62;169772
+m/1046873-alice_in_wonderland;Alice in Wonderland;G;ACTION & ADVENTURE;Nick Willing;2/28/1999;1/25/2017;96;Artisan Entertainment;62;24497
+m/1047550-scared_stiff;Scared Stiff;NR;COMEDY;George Marshall;;9/28/2016;108;Paramount Pictures;74;2512
+m/1047928-gunmen;Gunmen;R;ACTION & ADVENTURE;Deran Sarafian;06/01/1993;4/14/2016;90;Live Home Video;35;2103
+m/1047940-dangerous_game;Dangerous Game;R;DRAMA;Abel Ferrara;01/01/1993;01/04/2018;107;MGM Home Entertainment;45;2561
+m/1047985-getaway;The Getaway;R;ACTION & ADVENTURE;Roger Donaldson;02/11/1994;06/01/2016;115;Universal;28;8800
+m/1048301-angels_in_the_outfield;Angels in the Outfield;NR;COMEDY;Clarence Brown;10/17/1951;08/04/2008;102;MGM;63;9425
+m/1048333-heaven_and_earth;Heaven & Earth;R;DRAMA;Oliver Stone;06/01/1994;05/08/2015;140;Warner Home Video;70;5512
+m/1048445-snow_white_and_the_seven_dwarfs;Snow White and the Seven Dwarfs;G;SCIENCE FICTION & FANTASY;David Hand, William Cottrell, David D. Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen, Dorothy Ann Blank, Dick Richard, Walt Disney, Richard Creedon, Merrill de Maris, Webb Smith;12/21/1937;09/01/2016;80;Walt Disney Pictures;78;470351
+m/1048585-sugar_hill;Sugar Hill;R;DRAMA;Leon Ichaso;2/25/1994;2/14/2016;123;20th Century Fox;69;6711
+m/1049512-young_americans;The Young Americans;R;ACTION & ADVENTURE;Vernon Layton, Danny Cannon;10/08/1993;5/23/2016;104;Lionsgate;41;797
+m/1049883-alice;Alice (Neco z Alenky);NR;HORROR;Jan Svankmajer;01/01/1988;4/17/2020;90;First Run Features;80;11937
+m/1050388-last_man_on_earth;The Last Man on Earth;NR;DRAMA;Ubaldo Ragona, Sidney Salkow;03/08/1964;03/05/2013;86;MGM;69;11612
+m/1051219-bad_girls;Bad Girls;R;ACTION & ADVENTURE;Jonathan Kaplan;4/22/1994;11/25/2015;99;Twentieth Century Fox Home Entertainment;40;50675
+m/1052200-dream_lover;Dream Lover;R;DRAMA;Nicholas Kazan;01/01/1994;01/04/2018;103;PolyGram Video;40;928
+m/1052529-black_beauty;Black Beauty;G;ACTION & ADVENTURE;Caroline Thompson;7/29/1994;01/01/2008;85;Live Home Video;75;74339
+m/1052608-circus;The Circus;G;ACTION & ADVENTURE;Charles Chaplin;01/06/1928;5/22/2017;72;Allied Artists;94;6725
