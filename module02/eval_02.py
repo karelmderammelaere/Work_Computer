@@ -1,7 +1,3 @@
-"""
-This is the main module of the test for module 2: Object Oriented Programming
-"""
-
 # python imports
 import csv
 import os
@@ -11,11 +7,12 @@ from datetime import date
 #custom imports
 from movie.movie import Movie, create_movie
 from movie.rating import MovieRating
+from person import person
 
 # These constants must point to the input file reviews.csv,
 # and the location of the output file (see item 9)
-MOVIE_FILE = "C:\\Users\\0031803\\PycharmProjects\\module02\\MovieFile.csv"
-EXPORT_FILE = "C:\\Users\\0031803\\PycharmProjects\\module02\\ExportFile.csv"
+MOVIE_FILE = "C:\\Users\\0031803\\PycharmProjects\\Work_Computer\\module02\\MovieFile.csv"
+EXPORT_FILE = "C:\\Users\\0031803\\PycharmProjects\\Work_Computer\\module02\\ExportFile.csv"
 
 
 def load_movies(file_location: str) -> List[Movie] | None:
@@ -218,7 +215,7 @@ def print_scorelijst(movies):
 
 def export_films_zonder_score(movies, filename=EXPORT_FILE):
     """
-    Exporteer films zonder score naar een CSV-bestand, alfabetisch op titel.
+    Exporteert films zonder score naar een CSV-bestand, alfabetisch op titel.
     :param movies: lijst van Movie-objecten
     :param filename: naam van het CSV-bestand
     :return: None
@@ -231,12 +228,18 @@ def export_films_zonder_score(movies, filename=EXPORT_FILE):
     with open(filename, "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         for movie in films_zonder_score:
+            directors = ""
+            if movie.directors:
+                names = []
+                for director in movie.directors:
+                    names.append(director.fullname)
+                directors = ",".join(names)
             writer.writerow([
-                movie.rt_link or "",
-                movie.title or "",
-                movie.content_rating.code if movie.content_rating else "",
-                movie.genre or "",
-                ",".join(d.fullname if hasattr(d, "fullname") else str(d) for d in (movie.directors or [])),
+                movie.rt_link,
+                movie.title,
+                movie.content_rating.code,
+                movie.genre,
+                ",".join(movie.direcotrs),
                 movie.release_date or "",
                 movie.streaming_date or "",
                 movie.length or "",
