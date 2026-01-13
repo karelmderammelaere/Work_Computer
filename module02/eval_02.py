@@ -38,13 +38,13 @@ def load_movies(file_location: str) -> List[Movie] | None:
                     print(f"Probleem met Lijn {i} : '{e}' => {row}")
         if errors:
             print(f"{errors} films konden niet geladen worden")
+
     except Exception as e:
         # Exception is a good choice
         print(f"Probleem bij het inlezen van bestand: {file_location} => {e}")
         return None
-    return movies
 
-print(load_movies(MOVIE_FILE))
+    return movies
 
 
 def print_menu():
@@ -109,7 +109,9 @@ def print_films_per_genre(movies):
 
     # Sorteer de dictionary op aantal (value) in aflopende volgorde
     result = dict(sorted(result.items(), key=lambda item: item[1], reverse=True))
+
     print(f"Aantal films per genre (genre: aantal): ")
+
     for genre, aantal in result.items():
         print(f"{genre}: {aantal}")
 
@@ -120,6 +122,7 @@ def print_aantal_personen(movies):
     :param movies: lijst van Movie-objecten of subklassen
     """
     unieke_personen = set()
+
     for movie in movies:
         if movie.directors:  # directors kan None zijn
             for director in movie.directors:
@@ -135,11 +138,13 @@ def print_hoogste_score(movies):
     """
     max_score = 0
     filtered_movies = []
+
     for m in movies:
         if m.score is not None:
             filtered_movies.append(m)
             if m.score > max_score:
                 max_score = m.score
+
     if len(filtered_movies) < 1:
         print("Er zijn geen movies met scores.")
 
@@ -157,6 +162,7 @@ def print_actiefste_regisseur(movies):
     :param movies: lijst van Movie-objecten of subklassen
     """
     unieke_personen = {}
+
     for movie in movies:
         if movie.directors:  # directors kan None zijn
             for director in movie.directors:
@@ -230,6 +236,7 @@ def print_scorelijst(movies):
     :param movies: lijst van Movie-objecten of subklassen
     """
     score_telling = {}
+
     for movie in movies:
         if movie.score is not None:
             if movie.score in score_telling:
@@ -279,6 +286,7 @@ def export_films_zonder_score(movies, filename=EXPORT_FILE):
                 movie.score or "",
                 movie.count or ""
             ])
+
     print(f"CSV geëxporteerd naar: {filename}")
 
 
