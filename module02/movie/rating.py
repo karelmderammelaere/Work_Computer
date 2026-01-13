@@ -47,9 +47,12 @@ def get_rating(code: str) -> MovieRating:
     :return: a MovieRating object
     """
     data = RATING_DATA.get(code)
+
     if data is None:
         raise ValueError(f"Invalid movie rating code: {code}")
+
     description, rank = data
+
     return MovieRating(code, description, rank)
 
 

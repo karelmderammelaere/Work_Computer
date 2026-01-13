@@ -111,14 +111,23 @@ class Movie:
         """Return the Rotten Tomatoes URL for the movie."""
         return f"https://www.rottentomatoes.com/{self.rt_link}"
 
+
 def get_directors(director_csv: str) -> list[person.Person] | None:
+    """
+    Convert a comma-separated string of director names into Person objects.
+    :param director_csv: Comma-separated list of director full names
+    :return: A list of Person objects, or None if no directors are provided
+    """
     if director_csv is None:
         return None
+
     all_directors = []
+
     for names in director_csv.split(','):
         name = names.strip()
         persons = person.get_person(name)
         all_directors.append(persons)
+
     return all_directors
 
 
@@ -129,6 +138,7 @@ class ActionAdventure(Movie):
 class Comedy(Movie):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, genre = "COMEDY", **kwargs)
+
     def is_slapstick(self) -> bool:
         return self.relevant_score() and self.score < 40
 
@@ -139,6 +149,7 @@ class Drama(Movie):
 class Horror(Movie):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, genre = "HORROR", **kwargs)
+
     def is_scary(self) -> bool:
         if self.content_rating is None:
             return False
@@ -147,6 +158,7 @@ class Horror(Movie):
 class Romance(Movie):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, genre = "ROMANCE", **kwargs)
+
     def is_cosy(self) -> bool:
         return self.length is not None and 70 <= self.length <= 100
 
@@ -160,15 +172,30 @@ class Western(Movie):
 
 
 def parse_date(value: str) -> date | None:
+    """
+    Parse a date string into a date object.
+    :param value: Date string in MM/DD/YYYY format
+    :return: A date object or None if the input is empty
+    """
     value = value.strip()
+
     if not value:
         return None
+
     return datetime.strptime(value, "%m/%d/%Y").date()
 
 def parse_int(value: str) -> int | None:
+    """
+    Parse a string into an integer.
+    :param value: String representation of an integer
+    :return: An integer or None if the input is empty
+    :raises ValueError: If the string cannot be converted to an integer
+    """
     value = value.strip()
+
     if not value:
         return None
+
     return int(value)
 
 
@@ -181,6 +208,7 @@ genre_map = {
     "SCIENCE FICTION & FANTASY": ScienceFictionFantasy,
     "WESTERN": Western,
 }
+
 
 def create_movie(movie_info: dict) -> Movie:
     """
@@ -196,7 +224,6 @@ def create_movie(movie_info: dict) -> Movie:
 
     movie_class = genre_map[genre]
 
-    # Maak een instance en sla die op
     movie_instance = movie_class(
         rt_link=movie_info.get("rotten_tomatoes_link", ""),
         title=movie_info.get("movie_title", ""),

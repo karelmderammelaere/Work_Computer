@@ -2,7 +2,6 @@
 import csv
 import os
 from typing import List
-from datetime import date
 
 #custom imports
 from movie.movie import Movie, create_movie
@@ -24,6 +23,7 @@ def load_movies(file_location: str) -> List[Movie] | None:
     """
     if not os.path.exists(file_location):
         raise FileNotFoundError("Bestand niet gevonden: {file_location}")
+
     try:
         errors = 0
         movies = []
@@ -61,6 +61,7 @@ def print_menu():
         10) Stop
     """)
 
+
 def main():
     """
     Load movies and present a menu until the user chooses to stop
@@ -86,6 +87,10 @@ def main():
 
 
 def print_aantal_films(movies):
+    """
+    Print the total number of movies.
+    :param movies: lijst van Movie-objecten of subklassen
+    """
     print(f"Aantal films: {len(movies)}")
 
 
@@ -101,28 +106,33 @@ def print_films_per_genre(movies):
             result[genre] += 1
         else:
             result[genre] = 1
+
     # Sorteer de dictionary op aantal (value) in aflopende volgorde
     result = dict(sorted(result.items(), key=lambda item: item[1], reverse=True))
+    print(f"Aantal films per genre (genre: aantal): ")
     for genre, aantal in result.items():
         print(f"{genre}: {aantal}")
-    return result
 
 
 def print_aantal_personen(movies):
     """
     Print het aantal unieke personen (directors) in de lijst van movies.
-    :param movies: Lijst van Movie-objecten
-    :return: None
+    :param movies: lijst van Movie-objecten of subklassen
     """
     unieke_personen = set()
     for movie in movies:
         if movie.directors:  # directors kan None zijn
             for director in movie.directors:
                 unieke_personen.add(director.fullname)
-    print(f"Aantal personen: {len(unieke_personen)}")
+
+    print(f"Aantal verschillende Directors: {len(unieke_personen)}")
 
 
 def print_hoogste_score(movies):
+    """
+    Print the highest movie score and corresponding titles.
+    :param movies: lijst van Movie-objecten of subklassen
+    """
     max_score = 0
     filtered_movies = []
     for m in movies:
@@ -132,7 +142,9 @@ def print_hoogste_score(movies):
                 max_score = m.score
     if len(filtered_movies) < 1:
         print("Er zijn geen movies met scores.")
-    print(f"Hoogste score: {max_score}")
+
+    print(f"Hoogste score voor een film is {max_score}")
+    print(f"De film(s) met deze score zijn: ")
 
     for movie in filtered_movies:
         if movie.score == max_score:
@@ -142,8 +154,7 @@ def print_hoogste_score(movies):
 def print_actiefste_regisseur(movies):
     """
     Print de regisseur(s) die het meeste aantal films regisseerden.
-    :param movies: Lijst van Movie objecten
-    :return: None
+    :param movies: lijst van Movie-objecten of subklassen
     """
     unieke_personen = {}
     for movie in movies:
@@ -153,17 +164,24 @@ def print_actiefste_regisseur(movies):
                     unieke_personen[director.fullname] += 1
                 else:
                     unieke_personen[director.fullname] = 1
+
     if not unieke_personen:
         print("Geen regisseurs gevonden.")
         return
+
     hoogste_aantal = max(unieke_personen.values())
     print(f"De regisseur(s) die het meeste aantal ({hoogste_aantal}) films regisseerden zijn:")
+
     for personname, aantal in unieke_personen.items():
         if aantal == hoogste_aantal:
             print(personname)
 
 
 def print_kortste_en_langste_film(movies):
+    """
+    Print the shortest and longest movies.
+    :param movies: lijst van Movie-objecten of subklassen
+    """
     min_length = 100000
     max_length = 0
     movies_with_length = []
@@ -175,31 +193,42 @@ def print_kortste_en_langste_film(movies):
                 min_length = m.length
             if m.length > max_length:
                 max_length = m.length
+
     if len(movies_with_length) < 1:
         print("Geen filmlengtes beschikbaar")
         return
+
     print("Kortste film(s):")
+
     for movie in movies_with_length:
         if movie.length == min_length:
             print(f"{movie.title} ({movie.length} min)")
+
     print("Langste film(s):")
+
     for movie in movies_with_length:
         if movie.length == max_length:
             print(f"{movie.title} ({movie.length} min)")
 
 
 def print_enge_horror(movies):
+    """
+    Print scary horror movies.
+    :param movies: lijst van Movie-objecten of subklassen
+    """
     print("De enge horror movies zijn:")
-    count = 0
+
     for movie in movies:
         if movie.genre == "HORROR":
             if movie.is_scary():
                 print(movie.title)
-                count += 1
-    print(count)
 
 
 def print_scorelijst(movies):
+    """
+    Print score distribution from 0 to 100.
+    :param movies: lijst van Movie-objecten of subklassen
+    """
     score_telling = {}
     for movie in movies:
         if movie.score is not None:
@@ -207,7 +236,9 @@ def print_scorelijst(movies):
                 score_telling[movie.score] += 1
             else:
                 score_telling[movie.score] = 1
-    print("de scorelijst van alle scores van 0 tot 100 en hoeveel films deze score hebben: ")
+
+    print("De scorelijst van alle scores van 0 tot 100 en hoeveel films deze score hebben: ")
+
     for score in range(0, 101):
         aantal = score_telling.get(score, 0)  # 0 als score niet voorkomt
         print(f"{score:3}%: {aantal}")
@@ -216,15 +247,16 @@ def print_scorelijst(movies):
 def export_films_zonder_score(movies, filename=EXPORT_FILE):
     """
     Exporteert films zonder score naar een CSV-bestand, alfabetisch op titel.
-    :param movies: lijst van Movie-objecten
+    :param movies: lijst van Movie-objecten of subklassen
     :param filename: naam van het CSV-bestand
-    :return: None
     """
     films_zonder_score = [m for m in movies if m.score is None]
+
     for i in range(len(films_zonder_score)):
         for j in range(i + 1, len(films_zonder_score)):
             if films_zonder_score[i].title.lower() > films_zonder_score[j].title.lower():
                 films_zonder_score[i], films_zonder_score[j] = films_zonder_score[j], films_zonder_score[i]
+
     with open(filename, "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         for movie in films_zonder_score:
@@ -239,7 +271,7 @@ def export_films_zonder_score(movies, filename=EXPORT_FILE):
                 movie.title,
                 movie.content_rating.code,
                 movie.genre,
-                ",".join(movie.direcotrs),
+                directors,
                 movie.release_date or "",
                 movie.streaming_date or "",
                 movie.length or "",
@@ -248,6 +280,7 @@ def export_films_zonder_score(movies, filename=EXPORT_FILE):
                 movie.count or ""
             ])
     print(f"CSV geëxporteerd naar: {filename}")
+
 
 if __name__ == "__main__":
    main()

@@ -26,13 +26,24 @@ class Person:
         return self.fullname.lower() == other.fullname.lower()
 
 def get_person(fullname: str) -> Person:
+    """
+    Return a unique Person instance for the given full name.
+
+    :param fullname: Full name of the person
+    :raises ValueError: If fullname is not a non-empty string
+    :return: A Person instance corresponding to the given full name
+    """
     if not isinstance(fullname, str) or not fullname.strip():
         raise ValueError("fullname must be a non-empty string")
+
     key = fullname.lower()
     person = PERSON_REGISTRY.get(key)
-    if person:  # Als persoon al bestaat, gewoon teruggeven
+
+    if person:
         return person
-    new_person = Person(fullname)  # Persoon bestaat nog niet: aanmaken en registreren
+
+    new_person = Person(fullname)
     PERSON_REGISTRY[key] = new_person
     return new_person
+
 
