@@ -58,7 +58,8 @@ def print_menu():
         7) Enge horror
         8) Scorelijst
         9) Exporteer (films zonder score)
-        10) Stop
+        10) Print Films met release datum in oneven maand
+        11) Stop
     """)
 
 
@@ -82,8 +83,19 @@ def main():
             case "7": print_enge_horror(movies)
             case "8": print_scorelijst(movies)
             case "9": export_films_zonder_score(movies)
-            case "10": break
+            case "10": print_films_uneven_month(movies)
+            case "11": break
             case _: print("Ongeldige keuze")
+
+def print_films_uneven_month(movies):
+    """
+    Print all movies that have been released in an uneven month.
+    :param movies: lijst van Movie-objecten of subklassen
+    """
+    print("Movies released in an uneven month are: ")
+    for movie in movies:
+        if movie.release_date is not None and (movie.release_date.month) % 2 == 1:
+            print(movie.title)
 
 
 def print_aantal_films(movies):
